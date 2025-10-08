@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 887,
+  "original_language": "en",
+  "original_title": "The Best Years of Our Lives",
+  "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+  "popularity": 7.6266,
+  "poster_path": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+  "release_date": "1946-12-25",
+  "title": "The Best Years of Our Lives",
+  "video": false,
+  "vote_average": 7.789,
+  "vote_count": 700
+}

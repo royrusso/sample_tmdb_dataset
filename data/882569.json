@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+  "genre_ids": [
+    10752,
+    28,
+    53
+  ],
+  "id": 882569,
+  "original_language": "en",
+  "original_title": "Guy Ritchie's The Covenant",
+  "overview": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+  "popularity": 8.5203,
+  "poster_path": "/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+  "release_date": "2023-04-19",
+  "title": "Guy Ritchie's The Covenant",
+  "video": false,
+  "vote_average": 7.734,
+  "vote_count": 2901
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 37165,
+  "original_language": "en",
+  "original_title": "The Truman Show",
+  "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+  "popularity": 13.6464,
+  "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+  "release_date": "1998-06-04",
+  "title": "The Truman Show",
+  "video": false,
+  "vote_average": 8.148,
+  "vote_count": 19359
+}

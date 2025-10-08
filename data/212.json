@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/h0jlcOISKcrVG4IE4p5IyZGrMhn.jpg",
+  "genre_ids": [
+    35,
+    80
+  ],
+  "id": 212,
+  "original_language": "en",
+  "original_title": "Arsenic and Old Lace",
+  "overview": "Mortimer Brewster, a newspaper drama critic, playwright, and author known for his diatribes against marriage, suddenly falls in love and gets married;  but when he makes a quick trip home to tell his two maiden aunts, he finds out his aunts' hobby - killing lonely old men and burying them in the cellar!",
+  "popularity": 1.8842,
+  "poster_path": "/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+  "release_date": "1944-09-01",
+  "title": "Arsenic and Old Lace",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 986
+}

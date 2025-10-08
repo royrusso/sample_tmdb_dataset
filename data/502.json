@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/p8TUKej4ka8FYAirpOoCy77t6yd.jpg",
+  "genre_ids": [
+    53,
+    18,
+    10752
+  ],
+  "id": 502,
+  "original_language": "en",
+  "original_title": "Fail Safe",
+  "overview": "Because of a technical defect an American bomber team mistakenly orders the destruction of Moscow. The President of the United States has but little time to prevent an atomic catastrophe from occurring.",
+  "popularity": 1.5775,
+  "poster_path": "/qrsj5hort5xkLOKw9NyraGMnlVP.jpg",
+  "release_date": "1964-10-07",
+  "title": "Fail Safe",
+  "video": false,
+  "vote_average": 7.806,
+  "vote_count": 435
+}

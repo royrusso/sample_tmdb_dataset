@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+  "genre_ids": [
+    35,
+    10749
+  ],
+  "id": 3078,
+  "original_language": "en",
+  "original_title": "It Happened One Night",
+  "overview": "A runaway heiress makes a deal with the rogue reporter trailing her but the mismatched pair end up stuck with each other when their bus leaves them behind.",
+  "popularity": 2.6417,
+  "poster_path": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+  "release_date": "1934-02-22",
+  "title": "It Happened One Night",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 1327
+}

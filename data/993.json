@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/hz0otaeBaQVCFjaqIcCEY2QbLVt.jpg",
+  "genre_ids": [
+    53,
+    9648,
+    80
+  ],
+  "id": 993,
+  "original_language": "en",
+  "original_title": "Sleuth",
+  "overview": "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.",
+  "popularity": 1.5713,
+  "poster_path": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+  "release_date": "1972-12-10",
+  "title": "Sleuth",
+  "video": false,
+  "vote_average": 7.677,
+  "vote_count": 660
+}

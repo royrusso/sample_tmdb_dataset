@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/3YDuN1mhQpYtCym4QatX0gkHahL.jpg",
+  "genre_ids": [
+    10751,
+    18
+  ],
+  "id": 404378,
+  "original_language": "en",
+  "original_title": "A Street Cat Named Bob",
+  "overview": "James Bowen, a homeless busker and recovering drug addict, has his life transformed when he meets a stray ginger cat.",
+  "popularity": 3.0673,
+  "poster_path": "/nBYG0D2FcbL1m926sIj7RN4m0sb.jpg",
+  "release_date": "2016-11-04",
+  "title": "A Street Cat Named Bob",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 1499
+}

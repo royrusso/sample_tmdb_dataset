@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
+  "genre_ids": [
+    18,
+    9648,
+    80
+  ],
+  "id": 37257,
+  "original_language": "en",
+  "original_title": "Witness for the Prosecution",
+  "overview": "An ailing barrister agrees to defend a man in a sensational murder trial where the unconvincing testimony of the defendant's wife becomes a subject of confusion.",
+  "popularity": 5.4018,
+  "poster_path": "/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+  "release_date": "1957-12-17",
+  "title": "Witness for the Prosecution",
+  "video": false,
+  "vote_average": 8.218,
+  "vote_count": 1551
+}

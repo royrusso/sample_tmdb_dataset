@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/lNUP9ymEHolzjLIHyoAkpHRQZxq.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 110160,
+  "original_language": "fr",
+  "original_title": "Laurence Anyways",
+  "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
+  "popularity": 2.114,
+  "poster_path": "/d8BpJ9qOQE7VFFqaV1XDdGfMsP7.jpg",
+  "release_date": "2012-05-18",
+  "title": "Laurence Anyways",
+  "video": false,
+  "vote_average": 7.649,
+  "vote_count": 878
+}

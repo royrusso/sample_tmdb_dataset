@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/knYZcpl08qhiEPCytyNXOq7Z1oS.jpg",
+  "genre_ids": [
+    80,
+    18,
+    9648,
+    53
+  ],
+  "id": 10633,
+  "original_language": "en",
+  "original_title": "In the Heat of the Night",
+  "overview": "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth.",
+  "popularity": 4.3273,
+  "poster_path": "/fvqHTabYej3LwzKRRZCm6jV3g0O.jpg",
+  "release_date": "1967-08-02",
+  "title": "In the Heat of the Night",
+  "video": false,
+  "vote_average": 7.653,
+  "vote_count": 1164
+}

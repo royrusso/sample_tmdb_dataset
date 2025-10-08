@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/4QHF7kAYjIpZ5U8A0amvhRkHlZ1.jpg",
+  "genre_ids": [
+    18,
+    28,
+    36,
+    10752
+  ],
+  "id": 94047,
+  "original_language": "ko",
+  "original_title": "마이웨이",
+  "overview": "During the invasion of Normandy the photograph of a slim Korean man in German uniform was found. It transpired that the man had served as a soldier in the Japanese, Russian and German armies. His incredible story inspired director Kang Je-Gyu to create this epic war drama.",
+  "popularity": 3.7021,
+  "poster_path": "/3moPqIC1EBFilLI3YJNa5Nfel3e.jpg",
+  "release_date": "2011-12-21",
+  "title": "My Way",
+  "video": false,
+  "vote_average": 7.879,
+  "vote_count": 418
+}

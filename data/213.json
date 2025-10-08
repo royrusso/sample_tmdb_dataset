@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
+  "genre_ids": [
+    53,
+    12
+  ],
+  "id": 213,
+  "original_language": "en",
+  "original_title": "North by Northwest",
+  "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+  "popularity": 3.496,
+  "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+  "release_date": "1959-08-06",
+  "title": "North by Northwest",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 4307
+}

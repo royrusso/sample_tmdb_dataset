@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/sU6ENo313Dh36Q7UK2vw72WBKJ1.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 8422,
+  "original_language": "it",
+  "original_title": "Rocco e i suoi fratelli",
+  "overview": "When a impoverished widow’s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
+  "popularity": 2.7737,
+  "poster_path": "/pngL8AraChIDOiWnKF2o3S9kJzJ.jpg",
+  "release_date": "1960-10-07",
+  "title": "Rocco and His Brothers",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 631
+}

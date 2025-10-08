@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+  "genre_ids": [
+    18,
+    28
+  ],
+  "id": 96721,
+  "original_language": "en",
+  "original_title": "Rush",
+  "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory — until a horrible accident threatens to end it all.",
+  "popularity": 8.0082,
+  "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+  "release_date": "2013-09-02",
+  "title": "Rush",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 7501
+}

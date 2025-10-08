@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/7OY9BSM5CYQiHvonQhlQiJGaEnL.jpg",
+  "genre_ids": [
+    16,
+    14
+  ],
+  "id": 32085,
+  "original_language": "en",
+  "original_title": "Vincent",
+  "overview": "Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams that annoy his mother.",
+  "popularity": 2.6007,
+  "poster_path": "/sH8CMLnuXbQv9T61mUCPHxZotDJ.jpg",
+  "release_date": "1982-10-01",
+  "title": "Vincent",
+  "video": false,
+  "vote_average": 7.857,
+  "vote_count": 888
+}

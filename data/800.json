@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/b4VAgPHGL33OA5QNZCYi0jU5Nma.jpg",
+  "genre_ids": [
+    18,
+    80
+  ],
+  "id": 800,
+  "original_language": "es",
+  "original_title": "Los olvidados",
+  "overview": "A group of juvenile delinquents live a violent life in the infamous slums of Mexico City; among them Pedro, whose morality is gradually corrupted and destroyed by the others.",
+  "popularity": 3.5662,
+  "poster_path": "/cDCvmYoyqFg4CuSMtGMvCpfOIEw.jpg",
+  "release_date": "1950-12-09",
+  "title": "The Young and the Damned",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 507
+}

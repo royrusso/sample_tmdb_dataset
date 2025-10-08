@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/rpsHpJj7FgnNBXhaO2KFthPwqH6.jpg",
+  "genre_ids": [
+    10749,
+    18,
+    35
+  ],
+  "id": 200727,
+  "original_language": "en",
+  "original_title": "Love, Rosie",
+  "overview": "Since the moment they met at age 5, Rosie and Alex have been best friends, facing the highs and lows of growing up side by side. A fleeting shared moment, one missed opportunity, and the decisions that follow send their lives in completely different directions. As each navigates the complexities of life, love, and everything in between, they always find their way back to each other - but is it just friendship, or something more?",
+  "popularity": 5.3631,
+  "poster_path": "/8Mf9GgyNv5jjLAAPGsom9skH2Du.jpg",
+  "release_date": "2014-10-16",
+  "title": "Love, Rosie",
+  "video": false,
+  "vote_average": 7.817,
+  "vote_count": 6369
+}

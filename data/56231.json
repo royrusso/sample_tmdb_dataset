@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/nZRxN3c9Hywlu5jh6mqLArIwShF.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 56231,
+  "original_language": "it",
+  "original_title": "La classe operaia va in paradiso",
+  "overview": "After losing a finger in a work accident, an Italian worker becomes increasingly involved in political and revolutionary groups.",
+  "popularity": 4.5527,
+  "poster_path": "/gulAszCUPjuBtDd6NudgLTBu3i5.jpg",
+  "release_date": "1971-09-17",
+  "title": "The Working Class Goes to Heaven",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 361
+}

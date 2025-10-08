@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/iNkgF4uBzcFTrY3NN6JrlCD5Ho.jpg",
+  "genre_ids": [
+    18,
+    10752
+  ],
+  "id": 5000,
+  "original_language": "fr",
+  "original_title": "Jeux interdits",
+  "overview": "Orphaned after a Nazi air raid, Paulette, a young Parisian girl, runs into Michel, an older peasant boy, and the two quickly become close. Together, they try to make sense of the chaotic and crumbling world around them, attempting to cope with death as they create a burial ground for Paulette's deceased pet dog. Eventually, however, Paulette's stay with Michel's family is threatened by the harsh realities of wartime.",
+  "popularity": 1.6769,
+  "poster_path": "/nby91GNVXQAv1NmKvqlpEEdhcMQ.jpg",
+  "release_date": "1952-05-09",
+  "title": "Forbidden Games",
+  "video": false,
+  "vote_average": 7.795,
+  "vote_count": 331
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/uaEfEkb2tjl4hN1oaSyzcxt4cEg.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 439,
+  "original_language": "it",
+  "original_title": "La dolce vita",
+  "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+  "popularity": 3.765,
+  "poster_path": "/2KU52apQyvyZuPsqEGMcWb4BKu2.jpg",
+  "release_date": "1960-02-05",
+  "title": "La Dolce Vita",
+  "video": false,
+  "vote_average": 8.064,
+  "vote_count": 1964
+}

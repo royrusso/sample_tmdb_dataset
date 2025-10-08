@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 1675,
+  "original_language": "fr",
+  "original_title": "La Nuit américaine",
+  "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+  "popularity": 2.3306,
+  "poster_path": "/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
+  "release_date": "1973-05-24",
+  "title": "Day for Night",
+  "video": false,
+  "vote_average": 7.772,
+  "vote_count": 626
+}

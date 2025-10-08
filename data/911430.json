@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
+  "genre_ids": [
+    28,
+    18
+  ],
+  "id": 911430,
+  "original_language": "en",
+  "original_title": "F1",
+  "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+  "popularity": 98.6443,
+  "poster_path": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+  "release_date": "2025-06-25",
+  "title": "F1",
+  "video": false,
+  "vote_average": 7.829,
+  "vote_count": 2304
+}

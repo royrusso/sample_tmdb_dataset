@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Pk1rGAtyblh9Xaq72T7ARCQSDQ.jpg",
+  "genre_ids": [
+    18,
+    53,
+    80
+  ],
+  "id": 832,
+  "original_language": "de",
+  "original_title": "M - Eine Stadt sucht einen Mörder",
+  "overview": "In this classic German thriller, Hans Beckert, a serial killer who preys on children, becomes the focus of a massive Berlin police manhunt. Beckert's heinous crimes are so repellant and disruptive to city life that he is even targeted by others in the seedy underworld network. With both cops and criminals in pursuit, the murderer soon realizes that people are on his trail, sending him into a tense, panicked attempt to escape justice.",
+  "popularity": 2.7777,
+  "poster_path": "/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg",
+  "release_date": "1931-05-11",
+  "title": "M",
+  "video": false,
+  "vote_average": 8.068,
+  "vote_count": 2330
+}

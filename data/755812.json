@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/2BZ7PC9aISswNXV2tugmjGiriaB.jpg",
+  "genre_ids": [
+    16,
+    10770,
+    14,
+    28
+  ],
+  "id": 755812,
+  "original_language": "fr",
+  "original_title": "Miraculous World : New York, les héros unis",
+  "overview": "Marinette’s class is headed to New York, the city of superheroes, for French-American Friendship Week.",
+  "popularity": 4.6917,
+  "poster_path": "/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+  "release_date": "2020-09-25",
+  "title": "Miraculous World: New York, United HeroeZ",
+  "video": false,
+  "vote_average": 8.092,
+  "vote_count": 1119
+}

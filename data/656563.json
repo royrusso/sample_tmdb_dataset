@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/eVFfdrBbDX1B3y1yIxoRjrGM24i.jpg",
+  "genre_ids": [
+    10749,
+    35
+  ],
+  "id": 656563,
+  "original_language": "pt",
+  "original_title": "Ricos de Amor",
+  "overview": "Working incognito at his rich dad's company to test his own merits, Teto falls for Paula and tells her he grew up poor, a lie that spins out of control.",
+  "popularity": 1.9533,
+  "poster_path": "/dVqRATKlpCoWy96lfxiHc9TY9An.jpg",
+  "release_date": "2020-04-30",
+  "title": "Rich in Love",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 624
+}

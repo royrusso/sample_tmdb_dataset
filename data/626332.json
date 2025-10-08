@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/yYEOYzgqPB31mkSsuPdCvXH3zHv.jpg",
+  "genre_ids": [
+    18,
+    36
+  ],
+  "id": 626332,
+  "original_language": "en",
+  "original_title": "Flamin' Hot",
+  "overview": "The inspiring true story of Richard Montañez, the Frito Lay janitor who channeled his Mexican American heritage and upbringing to turn the iconic Flamin' Hot Cheetos into a snack that disrupted the food industry and became a global pop culture phenomenon.",
+  "popularity": 5.1653,
+  "poster_path": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+  "release_date": "2023-03-11",
+  "title": "Flamin' Hot",
+  "video": false,
+  "vote_average": 7.96,
+  "vote_count": 767
+}

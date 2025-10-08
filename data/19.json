@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+  "genre_ids": [
+    18,
+    878
+  ],
+  "id": 19,
+  "original_language": "de",
+  "original_title": "Metropolis",
+  "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+  "popularity": 3.0166,
+  "poster_path": "/vZIJxGnjcswPCAa52jhbl01FQkV.jpg",
+  "release_date": "1927-02-06",
+  "title": "Metropolis",
+  "video": false,
+  "vote_average": 8.099,
+  "vote_count": 2943
+}

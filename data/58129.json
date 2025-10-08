@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/xgiGMef3A2aFAFktYyFu1juDvcI.jpg",
+  "genre_ids": [
+    18,
+    14,
+    27
+  ],
+  "id": 58129,
+  "original_language": "sv",
+  "original_title": "Körkarlen",
+  "overview": "An alcoholic, abusive ne'er-do-well is shown the error of his ways through a legend that dooms the last person to die on New Year's Eve before the clock strikes twelve to take the reins of Death's chariot and work tirelessly collecting fresh souls for the next year.",
+  "popularity": 4.5771,
+  "poster_path": "/vmhMEj2d8JnKS5jzqJf4kYypKWN.jpg",
+  "release_date": "1921-01-01",
+  "title": "The Phantom Carriage",
+  "video": false,
+  "vote_average": 7.82,
+  "vote_count": 339
+}

@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/p1XtUnWJrmVNqyhYJGIatMNt8C1.jpg",
+  "genre_ids": [
+    16,
+    878,
+    10402,
+    12
+  ],
+  "id": 11049,
+  "original_language": "en",
+  "original_title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+  "overview": "Four talented alien musicians are kidnapped by a record producer who disguises them as humans. Shep, a space pilot in love with bass player Stella, follows them to Earth. Reprogrammed to forget their real identities and renamed The Crescendolls, the group quickly becomes a huge success playing soulless corporate pop. At a concert, Shep manages to free all the musicians except Stella, and the band sets out to rediscover who they really are — and to rescue Stella.",
+  "popularity": 3.4984,
+  "poster_path": "/n0K6mjU8aVnag2mi93FuvJsjZi.jpg",
+  "release_date": "2003-05-28",
+  "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+  "video": false,
+  "vote_average": 7.782,
+  "vote_count": 496
+}

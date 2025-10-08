@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/yFPaqqXMGsdOKit3fsAJ9tqPJRP.jpg",
+  "genre_ids": [
+    80,
+    18,
+    53
+  ],
+  "id": 242582,
+  "original_language": "en",
+  "original_title": "Nightcrawler",
+  "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+  "popularity": 9.8292,
+  "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+  "release_date": "2014-10-23",
+  "title": "Nightcrawler",
+  "video": false,
+  "vote_average": 7.705,
+  "vote_count": 11263
+}

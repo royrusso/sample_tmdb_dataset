@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+  "genre_ids": [
+    16,
+    18,
+    35
+  ],
+  "id": 1064486,
+  "original_language": "en",
+  "original_title": "Memoir of a Snail",
+  "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+  "popularity": 10.5814,
+  "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+  "release_date": "2024-10-17",
+  "title": "Memoir of a Snail",
+  "video": false,
+  "vote_average": 8.075,
+  "vote_count": 651
+}

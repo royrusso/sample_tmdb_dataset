@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 266856,
+  "original_language": "en",
+  "original_title": "The Theory of Everything",
+  "overview": "The Theory of Everything is the extraordinary story of one of the world’s greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde.",
+  "popularity": 4.9722,
+  "poster_path": "/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg",
+  "release_date": "2014-11-07",
+  "title": "The Theory of Everything",
+  "video": false,
+  "vote_average": 7.839,
+  "vote_count": 10842
+}

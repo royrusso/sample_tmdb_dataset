@@ -1,0 +1,23 @@
+{
+  "adult": false,
+  "backdrop_path": "/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
+  "genre_ids": [
+    16,
+    12,
+    10751,
+    18,
+    37,
+    10749
+  ],
+  "id": 9023,
+  "original_language": "en",
+  "original_title": "Spirit: Stallion of the Cimarron",
+  "overview": "A captured mustang remains determined to return to his herd no matter what.",
+  "popularity": 7.503,
+  "poster_path": "/cUgYrz4twiJ3QgVGpRfey984NIB.jpg",
+  "release_date": "2002-05-24",
+  "title": "Spirit: Stallion of the Cimarron",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 4771
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+  "genre_ids": [
+    80,
+    53
+  ],
+  "id": 247,
+  "original_language": "en",
+  "original_title": "The Killing",
+  "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own.",
+  "popularity": 3.8995,
+  "poster_path": "/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
+  "release_date": "1956-06-06",
+  "title": "The Killing",
+  "video": false,
+  "vote_average": 7.654,
+  "vote_count": 1624
+}

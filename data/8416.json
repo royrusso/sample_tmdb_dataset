@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 8416,
+  "original_language": "it",
+  "original_title": "Il conformista",
+  "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+  "popularity": 2.0825,
+  "poster_path": "/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
+  "release_date": "1970-07-01",
+  "title": "The Conformist",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 724
+}

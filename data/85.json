@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+  "genre_ids": [
+    12,
+    28
+  ],
+  "id": 85,
+  "original_language": "en",
+  "original_title": "Raiders of the Lost Ark",
+  "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+  "popularity": 9.6469,
+  "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+  "release_date": "1981-06-12",
+  "title": "Raiders of the Lost Ark",
+  "video": false,
+  "vote_average": 7.924,
+  "vote_count": 13104
+}

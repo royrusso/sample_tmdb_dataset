@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+  "genre_ids": [
+    80,
+    18,
+    9648
+  ],
+  "id": 93,
+  "original_language": "en",
+  "original_title": "Anatomy of a Murder",
+  "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+  "popularity": 6.4179,
+  "poster_path": "/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+  "release_date": "1959-07-01",
+  "title": "Anatomy of a Murder",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 1084
+}

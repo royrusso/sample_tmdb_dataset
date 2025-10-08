@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/rM3C9s0b9oiOQDdrfLSOoE0sjWl.jpg",
+  "genre_ids": [
+    35,
+    18,
+    10752
+  ],
+  "id": 632,
+  "original_language": "en",
+  "original_title": "Stalag 17",
+  "overview": "It's a dreary Christmas 1944 for the American POWs in Stalag 17 and the men in Barracks 4, all sergeants, have to deal with a grave problem—there seems to be a security leak.",
+  "popularity": 4.6741,
+  "poster_path": "/lfve9FDKjT7JPbWI9NCs5340F79.jpg",
+  "release_date": "1953-05-29",
+  "title": "Stalag 17",
+  "video": false,
+  "vote_average": 7.697,
+  "vote_count": 631
+}

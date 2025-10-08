@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/wO0MIGcA7w7tBI9Ey80Q4Z7qnPm.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    12,
+    14
+  ],
+  "id": 995133,
+  "original_language": "en",
+  "original_title": "The Boy, the Mole, the Fox and the Horse",
+  "overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.",
+  "popularity": 5.6239,
+  "poster_path": "/wAKBWRhMmBtrCCuqmFwPm2RGTph.jpg",
+  "release_date": "2022-12-25",
+  "title": "The Boy, the Mole, the Fox and the Horse",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 660
+}

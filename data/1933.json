@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/y5hbHJbERDFurustaqcVamN84Y0.jpg",
+  "genre_ids": [
+    27,
+    9648,
+    53
+  ],
+  "id": 1933,
+  "original_language": "en",
+  "original_title": "The Others",
+  "overview": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+  "popularity": 6.6067,
+  "poster_path": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+  "release_date": "2001-08-02",
+  "title": "The Others",
+  "video": false,
+  "vote_average": 7.615,
+  "vote_count": 6850
+}

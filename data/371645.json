@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
+  "genre_ids": [
+    12,
+    35,
+    18
+  ],
+  "id": 371645,
+  "original_language": "en",
+  "original_title": "Hunt for the Wilderpeople",
+  "overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+  "popularity": 2.4031,
+  "poster_path": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+  "release_date": "2016-03-31",
+  "title": "Hunt for the Wilderpeople",
+  "video": false,
+  "vote_average": 7.654,
+  "vote_count": 2181
+}

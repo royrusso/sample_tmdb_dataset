@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/23HvwdsAQeL0MxN9fm3d8m1NaPw.jpg",
+  "genre_ids": [
+    18,
+    36
+  ],
+  "id": 1002185,
+  "original_language": "en",
+  "original_title": "A Million Miles Away",
+  "overview": "The life of engineer and former NASA astronaut José M. Hernández, the first migrant farmworker to go to space.",
+  "popularity": 5.0825,
+  "poster_path": "/kMI3tgxLAZbzGOVlorUBva0kriS.jpg",
+  "release_date": "2023-09-08",
+  "title": "A Million Miles Away",
+  "video": false,
+  "vote_average": 7.648,
+  "vote_count": 486
+}

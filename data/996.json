@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+  "genre_ids": [
+    80,
+    53
+  ],
+  "id": 996,
+  "original_language": "en",
+  "original_title": "Double Indemnity",
+  "overview": "A seductive housewife draws an insurance salesman into a plot of adultery and crime to collect on her husband's life insurance.",
+  "popularity": 4.678,
+  "poster_path": "/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg",
+  "release_date": "1944-07-06",
+  "title": "Double Indemnity",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 1912
+}

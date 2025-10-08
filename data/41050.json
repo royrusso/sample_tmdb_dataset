@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/8PevhwNGs33NhWdTgw49cG343jN.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 41050,
+  "original_language": "it",
+  "original_title": "La notte",
+  "overview": "A day in the life of an unfaithful married couple and their steadily deteriorating relationship in Milan.",
+  "popularity": 2.9541,
+  "poster_path": "/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg",
+  "release_date": "1961-01-24",
+  "title": "La Notte",
+  "video": false,
+  "vote_average": 7.953,
+  "vote_count": 708
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/ubERa5VEJlBRglxDSBSL0YBG7XB.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 2457,
+  "original_language": "fr",
+  "original_title": "Les Enfants du Paradis",
+  "overview": "In a chaotic 19th-century Paris teeming with aristocrats, thieves, psychics, and courtesans, theater mime Baptiste is in love with the mysterious actress Garance. But Garance, in turn, is loved by three other men: pretentious actor Frederick, conniving thief Lacenaire, and Count Edouard of Montray.",
+  "popularity": 2.2766,
+  "poster_path": "/yiy9stl1jjVhW44ypkWMFDT8Ix3.jpg",
+  "release_date": "1945-03-15",
+  "title": "Children of Paradise",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 434
+}

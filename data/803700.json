@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/xmqxG859eJbe2bJpSonJY6UazGr.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 803700,
+  "original_language": "it",
+  "original_title": "Le otto montagne",
+  "overview": "An epic journey of friendship and self-discovery set in the breathtaking Italian Alps, The Eight Mountains follows over four decades the profound, complex relationship between Pietro and Bruno.",
+  "popularity": 6.21,
+  "poster_path": "/ohD87uTlwOgNuUEYaW82ew9Eds7.jpg",
+  "release_date": "2022-12-21",
+  "title": "The Eight Mountains",
+  "video": false,
+  "vote_average": 7.613,
+  "vote_count": 771
+}

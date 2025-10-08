@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/vblx2TkQFrBrEORsEssizgEqakT.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 8016,
+  "original_language": "it",
+  "original_title": "Germania anno zero",
+  "overview": "In the ruins of post-WWII Berlin, a twelve-year-old boy is left to his own devices in order to help provide for his family.",
+  "popularity": 1.6663,
+  "poster_path": "/sdxegsjrrvujXvv2GLPENyDlWDI.jpg",
+  "release_date": "1948-12-01",
+  "title": "Germany, Year Zero",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 395
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/gh1Rghpf3BIISHSAw9GsObG4TN3.jpg",
+  "genre_ids": [
+    18,
+    36,
+    80
+  ],
+  "id": 714888,
+  "original_language": "es",
+  "original_title": "Argentina 1985",
+  "overview": "In the 1980s, a team of lawyers takes on the heads of Argentina's bloody military dictatorship in a battle against odds and a race against time.",
+  "popularity": 3.3046,
+  "poster_path": "/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg",
+  "release_date": "2022-09-29",
+  "title": "Argentina 1985",
+  "video": false,
+  "vote_average": 7.831,
+  "vote_count": 694
+}

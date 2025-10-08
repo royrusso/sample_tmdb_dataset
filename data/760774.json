@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/7kgDHoXEk0EySTczcmaYpPDBFQS.jpg",
+  "genre_ids": [
+    36,
+    18
+  ],
+  "id": 760774,
+  "original_language": "en",
+  "original_title": "One Life",
+  "overview": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
+  "popularity": 4.9316,
+  "poster_path": "/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
+  "release_date": "2023-12-21",
+  "title": "One Life",
+  "video": false,
+  "vote_average": 7.77,
+  "vote_count": 860
+}

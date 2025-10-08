@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+  "genre_ids": [
+    35,
+    18,
+    10749
+  ],
+  "id": 284,
+  "original_language": "en",
+  "original_title": "The Apartment",
+  "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+  "popularity": 3.9436,
+  "poster_path": "/2nt8Z54Bce74ycithkzlSNkgXJB.jpg",
+  "release_date": "1960-06-21",
+  "title": "The Apartment",
+  "video": false,
+  "vote_average": 8.199,
+  "vote_count": 2483
+}

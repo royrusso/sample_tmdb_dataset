@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/dxfFh9pTKDaYH2B6PwcR6ohCM1L.jpg",
+  "genre_ids": [
+    18,
+    53
+  ],
+  "id": 16672,
+  "original_language": "ja",
+  "original_title": "砂の女",
+  "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them.",
+  "popularity": 5.1198,
+  "poster_path": "/f0JpsMQ9oEjKBD66Ky3qK3z7LGT.jpg",
+  "release_date": "1964-02-15",
+  "title": "Woman in the Dunes",
+  "video": false,
+  "vote_average": 8.215,
+  "vote_count": 491
+}

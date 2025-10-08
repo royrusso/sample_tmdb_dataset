@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/y5ebTEBtpLn8PprGTWQhDfq33k8.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 42229,
+  "original_language": "it",
+  "original_title": "Una giornata particolare",
+  "overview": "Two neighbours — a persecuted journalist and a resigned housewife — forge a strong bond on the day of Adolf Hitler's historic 1938 visit to Rome.",
+  "popularity": 1.9766,
+  "poster_path": "/jzRn7N1mFowkQ5IkUkfWoxXJtYU.jpg",
+  "release_date": "1977-08-11",
+  "title": "A Special Day",
+  "video": false,
+  "vote_average": 8.056,
+  "vote_count": 717
+}

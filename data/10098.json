@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/mAhCW7QbpL5kwvCWGsfyY3ILoW6.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 10098,
+  "original_language": "en",
+  "original_title": "The Kid",
+  "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
+  "popularity": 4.4631,
+  "poster_path": "/A9NWYyn7eX0H9XIjaOvfWJ9mCGA.jpg",
+  "release_date": "1921-01-21",
+  "title": "The Kid",
+  "video": false,
+  "vote_average": 8.147,
+  "vote_count": 2244
+}

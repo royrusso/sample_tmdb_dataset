@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/pERcOAR1Teg4sLDDqRXj1TBjVsn.jpg",
+  "genre_ids": [
+    28,
+    18,
+    36
+  ],
+  "id": 980026,
+  "original_language": "da",
+  "original_title": "Bastarden",
+  "overview": "Denmark, 1755. Captain Ludvig Kahlen sets out to conquer a Danish heath reputed to be uncultivable, with an impossible goal: to establish a colony in the name of the king, in exchange for a royal title. A single-minded ambition that the ruthless lord of the region will relentlessly seek to put down. Kahlen's fate hangs in the balance: will his endevours bring him wealth and honour, or cost him his life...?",
+  "popularity": 8.7862,
+  "poster_path": "/npQgoOWn4fnvOIIyTj4rIV80FXC.jpg",
+  "release_date": "2023-10-05",
+  "title": "The Promised Land",
+  "video": false,
+  "vote_average": 7.705,
+  "vote_count": 470
+}

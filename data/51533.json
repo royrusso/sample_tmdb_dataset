@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/lAUvJ4G88jhJSITXLncRxpd81No.jpg",
+  "genre_ids": [
+    28,
+    35
+  ],
+  "id": 51533,
+  "original_language": "zh",
+  "original_title": "讓子彈飛",
+  "overview": "When circumstances force an outlaw to impersonate a county governor and clean up a corrupt town, the Robin Hood figure finds himself in a showdown with the local godfather.",
+  "popularity": 4.9755,
+  "poster_path": "/pkwBO3XkQLhgb31vl5ZwmGC5meT.jpg",
+  "release_date": "2010-12-20",
+  "title": "Let the Bullets Fly",
+  "video": false,
+  "vote_average": 7.756,
+  "vote_count": 324
+}

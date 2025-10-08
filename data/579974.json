@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/77GGKq6Ixq6ZiqBM6XcPZgQmiN2.jpg",
+  "genre_ids": [
+    28,
+    12,
+    18
+  ],
+  "id": 579974,
+  "original_language": "te",
+  "original_title": "రౌద్రం రణం రుధిరం",
+  "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+  "popularity": 8.3099,
+  "poster_path": "/nEufeZlyAOLqO2brrs0yeF1lgXO.jpg",
+  "release_date": "2022-03-24",
+  "title": "RRR",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 1451
+}

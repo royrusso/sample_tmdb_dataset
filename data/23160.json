@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 23160,
+  "original_language": "hu",
+  "original_title": "Werckmeister harmóniák",
+  "overview": "A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.",
+  "popularity": 2.2879,
+  "poster_path": "/fzG0xks6HNSnQg6atlF98brHvIT.jpg",
+  "release_date": "2001-02-01",
+  "title": "Werckmeister Harmonies",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 350
+}

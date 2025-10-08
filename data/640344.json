@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/wooZWiC4NWH0ahCSUOogEmVejHo.jpg",
+  "genre_ids": [
+    10751,
+    14
+  ],
+  "id": 640344,
+  "original_language": "it",
+  "original_title": "Me contro Te: Il film - La vendetta del Signor S",
+  "overview": "A young couple who makes popular YouTube videos for children sets out to win an award, but an evil mastermind stands in the way of their success.",
+  "popularity": 0.8857,
+  "poster_path": "/sfeQTIRkJjWt8IPDSBcPqkrcaas.jpg",
+  "release_date": "2020-01-17",
+  "title": "Me Against You: Mr. S's Vendetta",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 469
+}

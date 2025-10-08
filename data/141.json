@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+  "genre_ids": [
+    14,
+    18,
+    9648
+  ],
+  "id": 141,
+  "original_language": "en",
+  "original_title": "Donnie Darko",
+  "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+  "popularity": 8.7407,
+  "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+  "release_date": "2001-01-19",
+  "title": "Donnie Darko",
+  "video": false,
+  "vote_average": 7.766,
+  "vote_count": 12935
+}

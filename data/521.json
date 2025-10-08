@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/t7Cn1A0hM5iuTKZHEArXgrCmKqd.jpg",
+  "genre_ids": [
+    53,
+    80
+  ],
+  "id": 521,
+  "original_language": "en",
+  "original_title": "Dial M for Murder",
+  "overview": "When American writer Mark Halliday visits the very married Margot Wendice in London, he unknowingly sets off a chain of blackmail and murder.",
+  "popularity": 2.3394,
+  "poster_path": "/4KKiFDvtEusJzqzlwHp7iMceXKS.jpg",
+  "release_date": "1954-05-29",
+  "title": "Dial M for Murder",
+  "video": false,
+  "vote_average": 8.012,
+  "vote_count": 2728
+}

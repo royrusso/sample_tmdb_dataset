@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+  "genre_ids": [
+    18,
+    27,
+    53
+  ],
+  "id": 805,
+  "original_language": "en",
+  "original_title": "Rosemary's Baby",
+  "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+  "popularity": 4.4191,
+  "poster_path": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+  "release_date": "1968-06-12",
+  "title": "Rosemary's Baby",
+  "video": false,
+  "vote_average": 7.825,
+  "vote_count": 4148
+}

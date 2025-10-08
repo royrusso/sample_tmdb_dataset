@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 86837,
+  "original_language": "fr",
+  "original_title": "Amour",
+  "overview": "Georges and Anne are in their eighties. They are cultivated, retired music teachers. Their daughter, who is also a musician, lives abroad with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+  "popularity": 2.296,
+  "poster_path": "/19hyCudualHxCD0GrEngqsi0wBF.jpg",
+  "release_date": "2012-09-20",
+  "title": "Amour",
+  "video": false,
+  "vote_average": 7.758,
+  "vote_count": 1698
+}

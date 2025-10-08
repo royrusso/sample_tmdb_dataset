@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
+  "genre_ids": [
+    18,
+    9648
+  ],
+  "id": 1939,
+  "original_language": "en",
+  "original_title": "Laura",
+  "overview": "A police detective falls in love with the woman whose murder he's investigating.",
+  "popularity": 1.4228,
+  "poster_path": "/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg",
+  "release_date": "1944-11-26",
+  "title": "Laura",
+  "video": false,
+  "vote_average": 7.627,
+  "vote_count": 857
+}

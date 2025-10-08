@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/81LX4wktTXWEXjLNlkHTmJm7tRu.jpg",
+  "genre_ids": [
+    53,
+    80,
+    18
+  ],
+  "id": 1580,
+  "original_language": "en",
+  "original_title": "Rope",
+  "overview": "Two young men attempt to prove they committed the perfect murder by hosting a dinner party for the family of a classmate they just strangled to death.",
+  "popularity": 5.4798,
+  "poster_path": "/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
+  "release_date": "1948-03-11",
+  "title": "Rope",
+  "video": false,
+  "vote_average": 7.946,
+  "vote_count": 2859
+}

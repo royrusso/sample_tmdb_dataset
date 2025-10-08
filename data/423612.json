@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/lFLQNIkNVIHLXNVDHbt4pow4lXc.jpg",
+  "genre_ids": [
+    18,
+    10749,
+    36
+  ],
+  "id": 423612,
+  "original_language": "de",
+  "original_title": "Werk ohne Autor",
+  "overview": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR regime.",
+  "popularity": 2.1097,
+  "poster_path": "/fn0Tp9SG0IQ3Nx8iHPYPiseLMWd.jpg",
+  "release_date": "2018-10-03",
+  "title": "Never Look Away",
+  "video": false,
+  "vote_average": 7.766,
+  "vote_count": 715
+}

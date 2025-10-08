@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/fNXUCk54vGcoKr34olN14ohUSFY.jpg",
+  "genre_ids": [
+    18,
+    35,
+    36
+  ],
+  "id": 1026227,
+  "original_language": "it",
+  "original_title": "C'è ancora domani",
+  "overview": "In postwar Rome, a working-class woman dreams of a better future for herself and her daughter while facing abuse at the hands of her domineering husband. When a mysterious letter arrives, she discovers the courage to change the circumstances of her life.",
+  "popularity": 2.1682,
+  "poster_path": "/4Hi7yjiQjokEDStT1MOj5rPgRfW.jpg",
+  "release_date": "2023-10-26",
+  "title": "There's Still Tomorrow",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 1426
+}

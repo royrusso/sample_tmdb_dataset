@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/AmN8ozRE0AbMGgZhqBu4fUjZkRt.jpg",
+  "genre_ids": [
+    12,
+    18,
+    36,
+    28,
+    53
+  ],
+  "id": 11362,
+  "original_language": "en",
+  "original_title": "The Count of Monte Cristo",
+  "overview": "Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
+  "popularity": 7.3726,
+  "poster_path": "/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
+  "release_date": "2002-01-23",
+  "title": "The Count of Monte Cristo",
+  "video": false,
+  "vote_average": 7.677,
+  "vote_count": 1910
+}

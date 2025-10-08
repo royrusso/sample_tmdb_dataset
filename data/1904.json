@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/zJDnqXtGNHUmexiaWNa52Vslve5.jpg",
+  "genre_ids": [
+    18,
+    10749,
+    36
+  ],
+  "id": 1904,
+  "original_language": "en",
+  "original_title": "Memoirs of a Geisha",
+  "overview": "In the years before World War II, a penniless Japanese child is torn from her family to work as a maid in a geisha house.",
+  "popularity": 4.1915,
+  "poster_path": "/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg",
+  "release_date": "2005-12-06",
+  "title": "Memoirs of a Geisha",
+  "video": false,
+  "vote_average": 7.655,
+  "vote_count": 3220
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+  "genre_ids": [
+    28,
+    53,
+    878
+  ],
+  "id": 679,
+  "original_language": "en",
+  "original_title": "Aliens",
+  "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+  "popularity": 11.5774,
+  "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+  "release_date": "1986-07-18",
+  "title": "Aliens",
+  "video": false,
+  "vote_average": 7.952,
+  "vote_count": 10355
+}

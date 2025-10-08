@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+  "genre_ids": [
+    80,
+    18,
+    9648
+  ],
+  "id": 548,
+  "original_language": "ja",
+  "original_title": "羅生門",
+  "overview": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
+  "popularity": 5.1903,
+  "poster_path": "/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+  "release_date": "1950-08-26",
+  "title": "Rashomon",
+  "video": false,
+  "vote_average": 8.052,
+  "vote_count": 2386
+}

@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/ctckqAvz9aTZDtfXLmDUdMflesU.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 785534,
+  "original_language": "tr",
+  "original_title": "Kağıttan Hayatlar",
+  "overview": "In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood.",
+  "popularity": 1.4234,
+  "poster_path": "/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg",
+  "release_date": "2021-03-12",
+  "title": "Paper Lives",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 396
+}

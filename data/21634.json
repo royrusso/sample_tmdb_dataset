@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/9BrhCgffilZPr3VOnDAKP9vBrU1.jpg",
+  "genre_ids": [
+    18,
+    36,
+    10770
+  ],
+  "id": 21634,
+  "original_language": "en",
+  "original_title": "Prayers for Bobby",
+  "overview": "Bobby Griffith was his mother's favorite son, the perfect all-American boy growing up under deeply religious influences in Walnut Creek, California. Bobby was also gay. Struggling with a conflict no one knew of, much less understood, Bobby finally came out to his family.",
+  "popularity": 4.97,
+  "poster_path": "/1viFwXluAettogGDsTrSUUg29lZ.jpg",
+  "release_date": "2009-01-24",
+  "title": "Prayers for Bobby",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 600
+}

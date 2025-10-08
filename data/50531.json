@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/lkS4BWVGr2TIyqwWcLtE6xz553j.jpg",
+  "genre_ids": [
+    35
+  ],
+  "id": 50531,
+  "original_language": "it",
+  "original_title": "Chiedimi se sono felice",
+  "overview": "Aspiring thespians Aldo, Giovanni and Giacomo work dead-end jobs while nurturing the dream of staging their production of Cyrano de Bergerac, but love for the same lady will tear their friendship apart. Three years later, Giovanni and Giacomo reunite after learning that Aldo is dying.",
+  "popularity": 1.5361,
+  "poster_path": "/gzDYw3sUQ18gJSlLvJ5YqWlXfZr.jpg",
+  "release_date": "2000-12-15",
+  "title": "Ask Me If I'm Happy",
+  "video": false,
+  "vote_average": 7.655,
+  "vote_count": 1686
+}

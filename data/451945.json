@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/1pyUrlbTVCkGkcu7LsGMqxuCtkP.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 451945,
+  "original_language": "fr",
+  "original_title": "120 battements par minute",
+  "overview": "Paris, in the early 1990s: a group of young activists is desperately tied to finding the cure against an unknown lethal disease. They target the pharmaceutical labs that are retaining potential cures, and multiply direct actions, with the hope of saving their lives as well as the ones of future generations.",
+  "popularity": 2.0577,
+  "poster_path": "/azLtGx5ZhdTSP2b4oNLWtiE51OW.jpg",
+  "release_date": "2017-08-23",
+  "title": "BPM (Beats per Minute)",
+  "video": false,
+  "vote_average": 7.716,
+  "vote_count": 1364
+}

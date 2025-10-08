@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/wGwSWDG3LIQxchg2M8HV7bDqYKU.jpg",
+  "genre_ids": [
+    16,
+    14,
+    10749,
+    18
+  ],
+  "id": 533514,
+  "original_language": "ja",
+  "original_title": "劇場版 ヴァイオレット・エヴァーガーデン",
+  "overview": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
+  "popularity": 5.4637,
+  "poster_path": "/4b7uAGVtgA85Yd911yOJqIsHigx.jpg",
+  "release_date": "2020-09-18",
+  "title": "Violet Evergarden: The Movie",
+  "video": false,
+  "vote_average": 8.296,
+  "vote_count": 463
+}

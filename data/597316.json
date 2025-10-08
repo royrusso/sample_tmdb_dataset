@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/sw9Fa0IWFNv95heaS81mJmojV7Z.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    14,
+    35,
+    12
+  ],
+  "id": 597316,
+  "original_language": "en",
+  "original_title": "My Little Pony: A New Generation",
+  "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
+  "popularity": 5.6251,
+  "poster_path": "/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg",
+  "release_date": "2021-09-22",
+  "title": "My Little Pony: A New Generation",
+  "video": false,
+  "vote_average": 7.694,
+  "vote_count": 325
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/1QrEQHXX8nqquTBam25HiMrTRTH.jpg",
+  "genre_ids": [
+    35,
+    10749,
+    18
+  ],
+  "id": 613868,
+  "original_language": "pt",
+  "original_title": "Primos",
+  "overview": "Lucas is a young man who lives with his religious aunt Lourdes in a quiet country town. He helps his aunt by holding religious meetings with the ladies of the area, in the living room, playing biblical songs on the keyboard. This quiet life will end as soon as the charitable aunt communicates the arrival of another nephew, Mario, just out of jail. The clash of reality between the cousins ends up causing unusual situations, and an unexpected attraction among the boys.",
+  "popularity": 1.4869,
+  "poster_path": "/2o0pzmuQKFhuPnz4hvpfjd3BlNR.jpg",
+  "release_date": "2019-12-10",
+  "title": "Cousins",
+  "video": false,
+  "vote_average": 7.703,
+  "vote_count": 342
+}

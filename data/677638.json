@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
+  "genre_ids": [
+    16,
+    12,
+    10751,
+    35,
+    10770
+  ],
+  "id": 677638,
+  "original_language": "en",
+  "original_title": "We Bare Bears: The Movie",
+  "overview": "When Grizz, Panda, and Ice Bear's love of food trucks and viral videos get out of hand, the brothers are now chased away from their home and embark on a trip to Canada, where they can live in peace.",
+  "popularity": 3.353,
+  "poster_path": "/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg",
+  "release_date": "2020-06-30",
+  "title": "We Bare Bears: The Movie",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 835
+}

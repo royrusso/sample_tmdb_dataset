@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 522924,
+  "original_language": "en",
+  "original_title": "The Art of Racing in the Rain",
+  "overview": "A family dog – with a near-human soul and a philosopher's mind – evaluates his life through the lessons learned by his human owner, a race-car driver.",
+  "popularity": 4.524,
+  "poster_path": "/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+  "release_date": "2019-08-08",
+  "title": "The Art of Racing in the Rain",
+  "video": false,
+  "vote_average": 8.186,
+  "vote_count": 1585
+}

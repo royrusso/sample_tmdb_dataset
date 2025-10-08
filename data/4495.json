@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/4vbL72K9uVaMLhnvmdg1So7kqex.jpg",
+  "genre_ids": [
+    18,
+    14
+  ],
+  "id": 4495,
+  "original_language": "es",
+  "original_title": "El espíritu de la colmena",
+  "overview": "In 1940, in the immediate aftermath of the Spanish Civil War, a young girl living on the Castilian plain is haunted after attending a screening of James Whale's 1931 film Frankenstein and hearing from her sister that the monster is not dead, instead existing as a spirit inhabiting a nearby barn.",
+  "popularity": 1.3858,
+  "poster_path": "/p2wx4EWasQaPGxnbS2IsW74ewVN.jpg",
+  "release_date": "1973-10-08",
+  "title": "The Spirit of the Beehive",
+  "video": false,
+  "vote_average": 7.633,
+  "vote_count": 377
+}

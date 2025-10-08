@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/A62quSOB8otoZvGiLvMVZ9G4BiO.jpg",
+  "genre_ids": [
+    18,
+    80,
+    53
+  ],
+  "id": 12493,
+  "original_language": "ja",
+  "original_title": "天国と地獄",
+  "overview": "In the midst of an attempt to take over his company, a powerhouse executive is hit with a huge ransom demand when his chauffeur's son is kidnapped by mistake.",
+  "popularity": 5.5251,
+  "poster_path": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+  "release_date": "1963-03-01",
+  "title": "High and Low",
+  "video": false,
+  "vote_average": 8.346,
+  "vote_count": 1037
+}

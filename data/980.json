@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/dmmiwTfk4AraKkK8DwmrXYas5rS.jpg",
+  "genre_ids": [
+    37,
+    18
+  ],
+  "id": 980,
+  "original_language": "en",
+  "original_title": "The Ox-Bow Incident",
+  "overview": "A posse discovers a trio of men they suspect of murder and cow theft and are split between handing them over to the law or lynching them on the spot.",
+  "popularity": 7.0915,
+  "poster_path": "/1rzmL32QaewQbpO1zbhZKMDn5Gz.jpg",
+  "release_date": "1943-03-11",
+  "title": "The Ox-Bow Incident",
+  "video": false,
+  "vote_average": 7.706,
+  "vote_count": 411
+}

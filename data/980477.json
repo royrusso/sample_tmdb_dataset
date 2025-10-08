@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+  "genre_ids": [
+    16,
+    14,
+    12,
+    28
+  ],
+  "id": 980477,
+  "original_language": "zh",
+  "original_title": "哪吒之魔童闹海",
+  "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+  "popularity": 61.3114,
+  "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
+  "release_date": "2025-01-29",
+  "title": "Ne Zha 2",
+  "video": false,
+  "vote_average": 8.049,
+  "vote_count": 391
+}

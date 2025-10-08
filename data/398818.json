@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+  "genre_ids": [
+    10749,
+    18
+  ],
+  "id": 398818,
+  "original_language": "en",
+  "original_title": "Call Me by Your Name",
+  "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+  "popularity": 7.9742,
+  "poster_path": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+  "release_date": "2017-07-28",
+  "title": "Call Me by Your Name",
+  "video": false,
+  "vote_average": 8.106,
+  "vote_count": 12446
+}

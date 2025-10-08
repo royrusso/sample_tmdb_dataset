@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+  "genre_ids": [
+    35,
+    18
+  ],
+  "id": 99,
+  "original_language": "es",
+  "original_title": "Todo sobre mi madre",
+  "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
+  "popularity": 2.7536,
+  "poster_path": "/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+  "release_date": "1999-04-16",
+  "title": "All About My Mother",
+  "video": false,
+  "vote_average": 7.632,
+  "vote_count": 1969
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/VCebm5PHUChrD0ve24O1dThnxU.jpg",
+  "genre_ids": [
+    18,
+    28,
+    12
+  ],
+  "id": 1059,
+  "original_language": "ja",
+  "original_title": "隠し砦の三悪人",
+  "overview": "In feudal Japan, during a bloody war between clans, two cowardly and greedy peasants, soldiers of a defeated army, stumble upon a mysterious man who guides them to a fortress hidden in the mountains.",
+  "popularity": 4.3889,
+  "poster_path": "/1RTp3EZrKg7xj1HJK2x4Rqknnnu.jpg",
+  "release_date": "1958-12-28",
+  "title": "The Hidden Fortress",
+  "video": false,
+  "vote_average": 7.969,
+  "vote_count": 659
+}

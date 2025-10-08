@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/3lIuv1CO8g5vwbQsYsTqYJJ44qN.jpg",
+  "genre_ids": [
+    80,
+    18
+  ],
+  "id": 5924,
+  "original_language": "en",
+  "original_title": "Papillon",
+  "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+  "popularity": 3.4104,
+  "poster_path": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+  "release_date": "1973-12-16",
+  "title": "Papillon",
+  "video": false,
+  "vote_average": 7.83,
+  "vote_count": 2015
+}

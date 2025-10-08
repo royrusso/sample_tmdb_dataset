@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/7Za5Riy12u1CUDXeqMUlDBweYAE.jpg",
+  "genre_ids": [
+    35,
+    10749
+  ],
+  "id": 31411,
+  "original_language": "en",
+  "original_title": "The Cameraman",
+  "overview": "A photographer takes up newsreel shooting to impress a secretary.",
+  "popularity": 1.9166,
+  "poster_path": "/oz7dVRzxN95IIpa7hsG5XS3nO2L.jpg",
+  "release_date": "1928-09-10",
+  "title": "The Cameraman",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 408
+}

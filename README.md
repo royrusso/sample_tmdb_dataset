@@ -43,3 +43,13 @@ You can configure the number of JSON files to generate by setting the `NUM_RESUL
 ```bash
 NUM_RESULTS=1000
 ```
+
+## Data Files
+
+Data files are located in the `data` directory. Each file is named using the movie's TMDB ID. The github repo, includes 1000 sample files.
+
+For schema definition, read the [TMDB API Top Rated documentation](https://developer.themoviedb.org/reference/movie-top-rated-list).
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.

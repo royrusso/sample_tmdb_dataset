@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/djniIXcoida7VulOLfF8Lq9RGBm.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 20139,
+  "original_language": "en",
+  "original_title": "The Children's Hour",
+  "overview": "An unruly student at a private all-girls boarding school scandalously accuses the two women who run it of having a romantic relationship.",
+  "popularity": 3.1675,
+  "poster_path": "/goyEWixvULM2IRN4KsKibyrJE4J.jpg",
+  "release_date": "1961-12-19",
+  "title": "The Children's Hour",
+  "video": false,
+  "vote_average": 7.693,
+  "vote_count": 378
+}

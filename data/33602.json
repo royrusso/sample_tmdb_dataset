@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/aCURY1tNUkvrNnjw5qYJXTUp7z.jpg",
+  "genre_ids": [
+    18,
+    36
+  ],
+  "id": 33602,
+  "original_language": "en",
+  "original_title": "Temple Grandin",
+  "overview": "A biopic of Temple Grandin, an autistic American who has become one of the leading scientists in humane livestock handling.",
+  "popularity": 2.8006,
+  "poster_path": "/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+  "release_date": "2010-02-06",
+  "title": "Temple Grandin",
+  "video": false,
+  "vote_average": 7.834,
+  "vote_count": 513
+}

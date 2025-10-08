@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/46iMqI1qzAtnXJxGRNCFwYNYqOo.jpg",
+  "genre_ids": [
+    18,
+    12
+  ],
+  "id": 9343,
+  "original_language": "de",
+  "original_title": "Fitzcarraldo",
+  "overview": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
+  "popularity": 3.9994,
+  "poster_path": "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+  "release_date": "1982-03-02",
+  "title": "Fitzcarraldo",
+  "video": false,
+  "vote_average": 7.63,
+  "vote_count": 826
+}

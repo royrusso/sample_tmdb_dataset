@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+  "genre_ids": [
+    80,
+    53,
+    18
+  ],
+  "id": 475557,
+  "original_language": "en",
+  "original_title": "Joker",
+  "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+  "popularity": 13.4818,
+  "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+  "release_date": "2019-10-01",
+  "title": "Joker",
+  "video": false,
+  "vote_average": 8.133,
+  "vote_count": 26857
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/oBBtZHbtLt8wOHemA9Qv8hzcqng.jpg",
+  "genre_ids": [
+    35,
+    10749
+  ],
+  "id": 55960,
+  "original_language": "it",
+  "original_title": "Totò, Peppino e la... malafemmina",
+  "overview": "Antonio, Peppino and Lucia are three brothers who live in the country near Naples. Lucia's son, Gianni, goes to Naples to study medicine, but there he knows a ballet dancer. They fall in love and, when she goes to Milan, Gianni follows her. Informed of this and afraid that their nephew will stop studying, the three Caponi brothers leave for Milan to persuade Gianni to come back and continue studying and abandon the \"Malafemmina\" (bad girl).",
+  "popularity": 1.2151,
+  "poster_path": "/rHsc35TLPliJAvbnmu8dvddiu96.jpg",
+  "release_date": "1956-08-23",
+  "title": "Toto, Peppino, and the Hussy",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 360
+}

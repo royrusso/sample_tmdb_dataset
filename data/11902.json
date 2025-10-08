@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/2nerKhF40OzjnGGOyzHcsAw8T53.jpg",
+  "genre_ids": [
+    35,
+    18,
+    10752
+  ],
+  "id": 11902,
+  "original_language": "sr",
+  "original_title": "Подземље",
+  "overview": "A group of Serbian socialists prepares for the war in a surreal underground filled by parties, tragedies, love and hate.",
+  "popularity": 2.1169,
+  "poster_path": "/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+  "release_date": "1995-05-13",
+  "title": "Underground",
+  "video": false,
+  "vote_average": 7.732,
+  "vote_count": 725
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/g2Y4A9qgkHhecPBnYMaAIzTlmcN.jpg",
+  "genre_ids": [
+    14,
+    18
+  ],
+  "id": 12516,
+  "original_language": "ja",
+  "original_title": "夢",
+  "overview": "A collection of magical tales based upon the actual dreams of director Akira Kurosawa.",
+  "popularity": 4.1737,
+  "poster_path": "/ua17wrOrUjyqxuYmnUrmOVBMf4G.jpg",
+  "release_date": "1990-05-11",
+  "title": "Dreams",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 515
+}

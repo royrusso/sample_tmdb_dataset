@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/z0ZAEC2aZuflzua3HOSygVzE6Jq.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 1394,
+  "original_language": "ru",
+  "original_title": "Ностальгия",
+  "overview": "A Russian poet, Andrei and his interpreter, Eugenia travel to Italy to research the life of an 18th-century composer.",
+  "popularity": 1.7946,
+  "poster_path": "/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+  "release_date": "1983-06-02",
+  "title": "Nostalgia",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 574
+}

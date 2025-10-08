@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/q5vgDhmDS4EoYWrk9f9nqYZGDOw.jpg",
+  "genre_ids": [
+    10749,
+    18,
+    10402
+  ],
+  "id": 28971,
+  "original_language": "en",
+  "original_title": "Limelight",
+  "overview": "A fading music hall comedian tries to help a despondent ballet dancer learn to walk and to again feel confident about life.",
+  "popularity": 2.1068,
+  "poster_path": "/tDD11x3ZWCXXXwdpbGEU9uU4kh1.jpg",
+  "release_date": "1952-10-16",
+  "title": "Limelight",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 562
+}

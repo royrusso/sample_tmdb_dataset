@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/f72GEQF2lKsdmEULSI9bWCbQylH.jpg",
+  "genre_ids": [
+    18,
+    53,
+    80
+  ],
+  "id": 29259,
+  "original_language": "fr",
+  "original_title": "Le Trou",
+  "overview": "Four prison inmates have been hatching a plan to literally dig out of jail when another prisoner, Claude Gaspard, is moved into their cell. They take a risk and share their plan with the newcomer. Over the course of three days, the prisoners and friends break through the concrete floor using a bed post and begin to make their way through the sewer system -- yet their escape is anything but assured.",
+  "popularity": 6.1617,
+  "poster_path": "/xyZhiOz5NHVBUKlpioxjwajy7pm.jpg",
+  "release_date": "1960-03-18",
+  "title": "Le Trou",
+  "video": false,
+  "vote_average": 8.249,
+  "vote_count": 524
+}

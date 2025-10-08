@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 10997,
+  "original_language": "zh",
+  "original_title": "霸王别姬",
+  "overview": "Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and endure some of the most troublesome times in China's history.",
+  "popularity": 3.9754,
+  "poster_path": "/ySf9I93w6kJiaEb2T4zpoQjY8PR.jpg",
+  "release_date": "1993-01-01",
+  "title": "Farewell My Concubine",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 632
+}

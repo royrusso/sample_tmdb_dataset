@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/4UXfZjqt0C5kHTROotrsnfDYCh.jpg",
+  "genre_ids": [
+    28,
+    12,
+    14
+  ],
+  "id": 221732,
+  "original_language": "ja",
+  "original_title": "るろうに剣心　伝説の最期編",
+  "overview": "Shishio sets sail in his ironclad ship to bring down the government. In order to stop him, Kenshin trains with his old master to learn his final technique.",
+  "popularity": 4.3576,
+  "poster_path": "/3sw2YRF0UR4jeZJ2yvpgk4qvMQK.jpg",
+  "release_date": "2014-09-13",
+  "title": "Rurouni Kenshin Part III: The Legend Ends",
+  "video": false,
+  "vote_average": 7.714,
+  "vote_count": 530
+}

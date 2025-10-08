@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/8r9RoGfwGmn1pn0G3sbvHHemSWF.jpg",
+  "genre_ids": [
+    18,
+    10402,
+    36
+  ],
+  "id": 277216,
+  "original_language": "en",
+  "original_title": "Straight Outta Compton",
+  "overview": "In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels—armed only with their lyrics, swagger, bravado and raw talent—stood up to the authorities that meant to keep them down and formed the world’s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.",
+  "popularity": 4.7765,
+  "poster_path": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+  "release_date": "2015-08-11",
+  "title": "Straight Outta Compton",
+  "video": false,
+  "vote_average": 7.785,
+  "vote_count": 4051
+}

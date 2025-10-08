@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
+  "genre_ids": [
+    10751,
+    12,
+    18
+  ],
+  "id": 522518,
+  "original_language": "en",
+  "original_title": "A Dog's Journey",
+  "overview": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+  "popularity": 4.5808,
+  "poster_path": "/wquJChp0NpoqthYdE3YjXNNxvVC.jpg",
+  "release_date": "2019-05-03",
+  "title": "A Dog's Journey",
+  "video": false,
+  "vote_average": 8.053,
+  "vote_count": 1575
+}

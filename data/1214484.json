@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/pAT3Ie1lxxGBJn0USyxcUgBjw76.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 1214484,
+  "original_language": "sv",
+  "original_title": "Släpp taget",
+  "overview": "A jaded mother makes a last-ditch effort to keep her family together by taking them on a trip to their teenage daughter’s pole dancing competition.",
+  "popularity": 7.842,
+  "poster_path": "/hIJRqqAaMUtQ13mZL6lCE6myhXH.jpg",
+  "release_date": "2024-11-01",
+  "title": "Let Go",
+  "video": false,
+  "vote_average": 7.875,
+  "vote_count": 347
+}

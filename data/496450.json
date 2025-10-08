@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+  "genre_ids": [
+    16,
+    14,
+    28,
+    10749,
+    10751
+  ],
+  "id": 496450,
+  "original_language": "fr",
+  "original_title": "Miraculous - le film",
+  "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
+  "popularity": 8.8669,
+  "poster_path": "/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+  "release_date": "2023-07-05",
+  "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 924
+}

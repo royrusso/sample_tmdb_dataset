@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+  "genre_ids": [
+    35,
+    18,
+    10749
+  ],
+  "id": 3082,
+  "original_language": "en",
+  "original_title": "Modern Times",
+  "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+  "popularity": 3.5282,
+  "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+  "release_date": "1936-02-05",
+  "title": "Modern Times",
+  "video": false,
+  "vote_average": 8.282,
+  "vote_count": 3895
+}

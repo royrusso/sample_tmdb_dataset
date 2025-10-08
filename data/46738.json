@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/u8wmr8QCowIYXUxVeZYSPWVbB9P.jpg",
+  "genre_ids": [
+    18,
+    10752,
+    9648
+  ],
+  "id": 46738,
+  "original_language": "fr",
+  "original_title": "Incendies",
+  "overview": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+  "popularity": 8.3447,
+  "poster_path": "/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+  "release_date": "2010-09-17",
+  "title": "Incendies",
+  "video": false,
+  "vote_average": 8.098,
+  "vote_count": 3024
+}

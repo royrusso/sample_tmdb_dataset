@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/kcBlY5FasH8ti150aYExULw53ui.jpg",
+  "genre_ids": [
+    18,
+    10402,
+    36
+  ],
+  "id": 16052,
+  "original_language": "en",
+  "original_title": "Selena",
+  "overview": "In this biographical drama, Selena Quintanilla is born into a musical Mexican-American family in Texas. Her father, Abraham, realizes that his young daughter is talented and begins performing with her at small venues. She finds success and falls for her guitarist, Chris Perez, who draws the ire of her father. Seeking mainstream stardom, Selena begins recording an English-language album which, tragically, she would never complete.",
+  "popularity": 3.4809,
+  "poster_path": "/j8xX3yBAFOayfSaImgLZPnAcdWz.jpg",
+  "release_date": "1997-03-21",
+  "title": "Selena",
+  "video": false,
+  "vote_average": 7.708,
+  "vote_count": 1273
+}

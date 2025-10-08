@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/a4f6y7gbMmMLrwzJZrwmcNmEBM1.jpg",
+  "genre_ids": [
+    80,
+    18,
+    9648,
+    53
+  ],
+  "id": 1592,
+  "original_language": "en",
+  "original_title": "Primal Fear",
+  "overview": "An arrogant, high-powered attorney takes on the case of a poor altar boy found running away from the scene of the grisly murder of the bishop who has taken him in. The case gets a lot more complex when the accused reveals that there may or may not have been a third person in the room.",
+  "popularity": 7.2682,
+  "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+  "release_date": "1996-03-06",
+  "title": "Primal Fear",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 3648
+}

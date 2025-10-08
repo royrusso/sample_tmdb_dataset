@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
+  "genre_ids": [
+    80,
+    18
+  ],
+  "id": 30017,
+  "original_language": "fa",
+  "original_title": "کلوزآپ ، نمای نزدیک",
+  "overview": "This fiction-documentary hybrid uses a sensational real-life event—the arrest of a young man on charges that he fraudulently impersonated the well-known filmmaker Mohsen Makhmalbaf—as the basis for a stunning, multilayered investigation into movies, identity, artistic creation, and existence, in which the real people from the case play themselves.",
+  "popularity": 1.2274,
+  "poster_path": "/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg",
+  "release_date": "1990-05-09",
+  "title": "Close-Up",
+  "video": false,
+  "vote_average": 7.956,
+  "vote_count": 420
+}

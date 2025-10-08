@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/dELiIRHrpNpncIApojSW67kPNdQ.jpg",
+  "genre_ids": [
+    35,
+    12
+  ],
+  "id": 23832,
+  "original_language": "it",
+  "original_title": "L'armata Brancaleone",
+  "overview": "A group of rogues steal a scroll granting its bearer the property of the land of Aurocastro in Apulia, a province in the south of Italy. They elect a shaggy knight, Brancaleone from Norcia, as their leader, and decide to get possession of this supposedly wealthy land. Many adventures will occurr during the journey.",
+  "popularity": 1.5115,
+  "poster_path": "/zRdd1qYJpxKKy57ufAK4E7gi13W.jpg",
+  "release_date": "1966-04-07",
+  "title": "For Love and Gold",
+  "video": false,
+  "vote_average": 7.695,
+  "vote_count": 376
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/3Z2OhNVU0FhxGZJIq6Gn32UNoKu.jpg",
+  "genre_ids": [
+    18,
+    10749,
+    878
+  ],
+  "id": 662,
+  "original_language": "fr",
+  "original_title": "La Jetée",
+  "overview": "A man confronts his past during an experiment that attempts to find a solution to the problems of a post-apocalyptic world caused by a world war.",
+  "popularity": 2.3099,
+  "poster_path": "/elGidsRHXkk8UyrtLbcMhaptDyp.jpg",
+  "release_date": "1962-02-16",
+  "title": "La Jetée",
+  "video": false,
+  "vote_average": 7.873,
+  "vote_count": 947
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Eo6FPq6A4aMeOe4tTmNKwUZRvM.jpg",
+  "genre_ids": [
+    18,
+    10751
+  ],
+  "id": 28178,
+  "original_language": "en",
+  "original_title": "Hachi: A Dog's Tale",
+  "overview": "A drama based on the true story of a college professor's bond with the abandoned dog he takes into his home.",
+  "popularity": 7.4744,
+  "poster_path": "/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
+  "release_date": "2009-06-08",
+  "title": "Hachi: A Dog's Tale",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 6936
+}

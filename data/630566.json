@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/L7DIiAdP8DnNqOh7454ZrTYspR.jpg",
+  "genre_ids": [
+    10402,
+    18,
+    10749
+  ],
+  "id": 630566,
+  "original_language": "en",
+  "original_title": "Clouds",
+  "overview": "Young musician Zach Sobiech discovers his cancer has spread, leaving him just a few months to live. With limited time, he follows his dream and makes an album, unaware that it will soon be a viral music phenomenon.",
+  "popularity": 2.6949,
+  "poster_path": "/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg",
+  "release_date": "2020-10-09",
+  "title": "Clouds",
+  "video": false,
+  "vote_average": 8.248,
+  "vote_count": 1033
+}

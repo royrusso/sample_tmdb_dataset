@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/8UcfX4Ru550l7PdPia4zPoowWnr.jpg",
+  "genre_ids": [
+    9648,
+    37,
+    53
+  ],
+  "id": 446159,
+  "original_language": "pt",
+  "original_title": "Bacurau",
+  "overview": "Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.",
+  "popularity": 2.066,
+  "poster_path": "/ojfHP9yLL7V69c5CSVChLCjpWp.jpg",
+  "release_date": "2019-08-29",
+  "title": "Bacurau",
+  "video": false,
+  "vote_average": 7.672,
+  "vote_count": 1085
+}

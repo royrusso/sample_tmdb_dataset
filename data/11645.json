@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/gfR3GEClL7WrNpQOg8mcPhM8fx6.jpg",
+  "genre_ids": [
+    28,
+    18,
+    36
+  ],
+  "id": 11645,
+  "original_language": "ja",
+  "original_title": "乱",
+  "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
+  "popularity": 6.3562,
+  "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+  "release_date": "1985-06-01",
+  "title": "Ran",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 1683
+}

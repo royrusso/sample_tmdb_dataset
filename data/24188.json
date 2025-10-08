@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/uUrV5KSjnZx47Dq7e6STr73iN4N.jpg",
+  "genre_ids": [
+    18,
+    35,
+    12
+  ],
+  "id": 24188,
+  "original_language": "it",
+  "original_title": "Il sorpasso",
+  "overview": "Roberto, a shy law student in Rome, meets Bruno, a forty-year-old exuberant, capricious man, who takes him for a drive through the Roman and Tuscany countries in the summer. When their journey starts to blend into their daily lives though, the pair’s newfound friendship is tested.",
+  "popularity": 2.0672,
+  "poster_path": "/4h1ckrJQVcQYjeOkqS8i9BqZ9MI.jpg",
+  "release_date": "1962-12-05",
+  "title": "Il Sorpasso",
+  "video": false,
+  "vote_average": 8.225,
+  "vote_count": 808
+}

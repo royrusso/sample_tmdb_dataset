@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/zVJWPKbyv8ZPIbO6qcjE19dTgyn.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 25364,
+  "original_language": "en",
+  "original_title": "Ace in the Hole",
+  "overview": "An arrogant reporter exploits a story about a man trapped in a cave to revitalize his career.",
+  "popularity": 1.7552,
+  "poster_path": "/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+  "release_date": "1951-06-29",
+  "title": "Ace in the Hole",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 705
+}

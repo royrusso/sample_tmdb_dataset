@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/9kskVRVgXkiCWrWXEelMeadrf53.jpg",
+  "genre_ids": [
+    53,
+    27,
+    878
+  ],
+  "id": 1678,
+  "original_language": "ja",
+  "original_title": "ゴジラ",
+  "overview": "Japan is thrown into a panic after several ships are sunk near Odo Island. An expedition to the island led by Dr. Kyohei Yamane soon discover something far more devastating than imagined in the form of a 50 meter tall monster whom the natives call Gojira. Now the monster begins a rampage that threatens to destroy not only Japan, but the rest of the world as well.",
+  "popularity": 5.5092,
+  "poster_path": "/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
+  "release_date": "1954-11-03",
+  "title": "Godzilla",
+  "video": false,
+  "vote_average": 7.638,
+  "vote_count": 1047
+}

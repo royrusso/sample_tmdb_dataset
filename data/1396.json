@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
+  "genre_ids": [
+    18,
+    36
+  ],
+  "id": 1396,
+  "original_language": "ru",
+  "original_title": "Зеркало",
+  "overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+  "popularity": 4.0559,
+  "poster_path": "/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+  "release_date": "1975-03-07",
+  "title": "Mirror",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 1024
+}

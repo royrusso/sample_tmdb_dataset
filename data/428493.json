@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/qhNc8goJdGVRsrS9VoexTNi3Zxd.jpg",
+  "genre_ids": [
+    10749,
+    18
+  ],
+  "id": 428493,
+  "original_language": "en",
+  "original_title": "God's Own Country",
+  "overview": "A young farmer in rural Yorkshire numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker.",
+  "popularity": 1.9919,
+  "poster_path": "/hKJz8Moim43P1f1kGrM9Gh0c0rf.jpg",
+  "release_date": "2017-08-31",
+  "title": "God's Own Country",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 950
+}

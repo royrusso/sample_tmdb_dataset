@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/smkjSDuCRlOcOAASYTRCZG0MgUc.jpg",
+  "genre_ids": [
+    28,
+    12,
+    36,
+    18
+  ],
+  "id": 602063,
+  "original_language": "ja",
+  "original_title": "るろうに剣心 最終章 The Final",
+  "overview": "In 1879, Kenshin and his allies face their strongest enemy yet: his former brother-in-law Enishi Yukishiro and his minions, who've vowed their revenge.",
+  "popularity": 6.9929,
+  "poster_path": "/7bbEASVf9XWtfxWiuWUMY3uyhTb.jpg",
+  "release_date": "2021-04-23",
+  "title": "Rurouni Kenshin: The Final",
+  "video": false,
+  "vote_average": 7.726,
+  "vote_count": 513
+}

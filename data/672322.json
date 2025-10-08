@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/iGmfHHa3CSqKrH3yeS9CQVLAVUl.jpg",
+  "genre_ids": [
+    28,
+    12,
+    18,
+    10749
+  ],
+  "id": 672322,
+  "original_language": "ja",
+  "original_title": "るろうに剣心 最終章 The Beginning",
+  "overview": "Before he was a protector, Kenshin was a fearsome assassin known as Battosai. But when he meets gentle Tomoe Yukishiro, a beautiful young woman who carries a huge burden in her heart, his life will change forever.",
+  "popularity": 5.5517,
+  "poster_path": "/rODS466qSdrwMlGdbUwPENhDN2c.jpg",
+  "release_date": "2021-06-04",
+  "title": "Rurouni Kenshin: The Beginning",
+  "video": false,
+  "vote_average": 7.668,
+  "vote_count": 500
+}

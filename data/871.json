@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+  "genre_ids": [
+    878,
+    12,
+    18,
+    28
+  ],
+  "id": 871,
+  "original_language": "en",
+  "original_title": "Planet of the Apes",
+  "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+  "popularity": 9.137,
+  "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+  "release_date": "1968-02-07",
+  "title": "Planet of the Apes",
+  "video": false,
+  "vote_average": 7.643,
+  "vote_count": 3762
+}

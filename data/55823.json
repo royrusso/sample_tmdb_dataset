@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/fcH7FM74GoHgOUnKjpGAoKOxWvY.jpg",
+  "genre_ids": [
+    35,
+    10752,
+    18
+  ],
+  "id": 55823,
+  "original_language": "it",
+  "original_title": "La grande guerra",
+  "overview": "Italy, 1916. Oreste Jacovacci and Giovanni Busacca are called, as all the Italian youths, to serve the army in the WWI. They both try in every way to avoid serving the army.",
+  "popularity": 3.3996,
+  "poster_path": "/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg",
+  "release_date": "1959-10-28",
+  "title": "The Great War",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 361
+}

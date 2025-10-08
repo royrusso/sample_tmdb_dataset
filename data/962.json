@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+  "genre_ids": [
+    12,
+    35,
+    18
+  ],
+  "id": 962,
+  "original_language": "en",
+  "original_title": "The Gold Rush",
+  "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+  "popularity": 2.8064,
+  "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+  "release_date": "1925-07-13",
+  "title": "The Gold Rush",
+  "video": false,
+  "vote_average": 7.986,
+  "vote_count": 1713
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/f5EUue0mNt4gzjsrCP5QZENv3Ub.jpg",
+  "genre_ids": [
+    35,
+    80,
+    18
+  ],
+  "id": 30588,
+  "original_language": "en",
+  "original_title": "Monsieur Verdoux",
+  "overview": "The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.",
+  "popularity": 2.1489,
+  "poster_path": "/mUPXIinTQsBdLlDaWiSl7GwQXVs.jpg",
+  "release_date": "1947-09-26",
+  "title": "Monsieur Verdoux",
+  "video": false,
+  "vote_average": 7.697,
+  "vote_count": 449
+}

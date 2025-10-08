@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/ku9p7ciLeuV1R8pqJGMgawaaVE8.jpg",
+  "genre_ids": [
+    16,
+    12,
+    14,
+    10751
+  ],
+  "id": 823219,
+  "original_language": "lv",
+  "original_title": "Straume",
+  "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+  "popularity": 17.4501,
+  "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+  "release_date": "2024-08-29",
+  "title": "Flow",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 2339
+}

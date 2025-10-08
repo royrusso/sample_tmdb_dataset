@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/ih30cG9OGlJ7zyzhG3G5Bd3YGa9.jpg",
+  "genre_ids": [
+    12,
+    18,
+    10752
+  ],
+  "id": 5925,
+  "original_language": "en",
+  "original_title": "The Great Escape",
+  "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+  "popularity": 5.2965,
+  "poster_path": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+  "release_date": "1963-07-03",
+  "title": "The Great Escape",
+  "video": false,
+  "vote_average": 7.942,
+  "vote_count": 2689
+}

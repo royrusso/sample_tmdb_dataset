@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+  "genre_ids": [
+    35,
+    18,
+    10749
+  ],
+  "id": 703,
+  "original_language": "en",
+  "original_title": "Annie Hall",
+  "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+  "popularity": 3.4347,
+  "poster_path": "/3uV65RI9uA2Am16t5L7b5PRJYgm.jpg",
+  "release_date": "1977-04-19",
+  "title": "Annie Hall",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 4056
+}

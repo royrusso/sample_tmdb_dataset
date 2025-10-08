@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/7EazpcvoCfNZZysgljUAkQCBvW.jpg",
+  "genre_ids": [
+    18,
+    36
+  ],
+  "id": 614917,
+  "original_language": "en",
+  "original_title": "King Richard",
+  "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+  "popularity": 2.8352,
+  "poster_path": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+  "release_date": "2021-11-18",
+  "title": "King Richard",
+  "video": false,
+  "vote_average": 7.621,
+  "vote_count": 2682
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/87tmTU1NSR5EUGTKsF5rhLwZtZc.jpg",
+  "genre_ids": [
+    12,
+    18
+  ],
+  "id": 5915,
+  "original_language": "en",
+  "original_title": "Into the Wild",
+  "overview": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+  "popularity": 9.4069,
+  "poster_path": "/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+  "release_date": "2007-09-21",
+  "title": "Into the Wild",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 9818
+}

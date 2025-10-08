@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/leF9AKe937UhQsfWGtXfG7tBRvU.jpg",
+  "genre_ids": [
+    18,
+    36,
+    10749
+  ],
+  "id": 11659,
+  "original_language": "it",
+  "original_title": "La meglio gioventù",
+  "overview": "After a fateful encounter in the summer of 1966, the lifepaths of two brothers from a middle-class Roman family diverge, intersecting with some of the most significant events of postwar Italian history in the following decades.",
+  "popularity": 2.3327,
+  "poster_path": "/jKFeWrVshmFj8uG056O4tT5ZNTE.jpg",
+  "release_date": "2003-06-22",
+  "title": "The Best of Youth",
+  "video": false,
+  "vote_average": 8.087,
+  "vote_count": 572
+}

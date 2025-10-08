@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/70IvSPhhV83cCW4bb19zqM9EZh4.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 359784,
+  "original_language": "en",
+  "original_title": "Maudie",
+  "overview": "Canadian folk artist Maud Lewis falls in love with a fishmonger while working for him as a live-in housekeeper.",
+  "popularity": 4.9693,
+  "poster_path": "/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg",
+  "release_date": "2016-06-16",
+  "title": "Maudie",
+  "video": false,
+  "vote_average": 7.705,
+  "vote_count": 536
+}

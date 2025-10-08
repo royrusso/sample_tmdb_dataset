@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/cXliQvK1xSi9lSqP7qaBUyED1Az.jpg",
+  "genre_ids": [
+    18,
+    10751
+  ],
+  "id": 6715,
+  "original_language": "en",
+  "original_title": "The Cure",
+  "overview": "Erik, a loner, finds a friend in Dexter, an eleven-year-old boy with AIDS. They vow to find a cure for AIDS together and save Dexter's life in an eventful summer.",
+  "popularity": 2.669,
+  "poster_path": "/3WN1H5NzLOjhY9AP848v8WPc9uu.jpg",
+  "release_date": "1995-04-21",
+  "title": "The Cure",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 330
+}

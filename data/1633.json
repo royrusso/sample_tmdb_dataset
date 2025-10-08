@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/ApnB7gY4MrWoPqIw17lEMp1mXJD.jpg",
+  "genre_ids": [
+    18,
+    35
+  ],
+  "id": 1633,
+  "original_language": "en",
+  "original_title": "Fried Green Tomatoes",
+  "overview": "Amidst her own personality crisis, a southern housewife meets an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in 1920s Whistle Stop, Alabama.",
+  "popularity": 3.2182,
+  "poster_path": "/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+  "release_date": "1991-12-27",
+  "title": "Fried Green Tomatoes",
+  "video": false,
+  "vote_average": 7.688,
+  "vote_count": 1408
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+  "genre_ids": [
+    80,
+    18
+  ],
+  "id": 3309,
+  "original_language": "en",
+  "original_title": "Mildred Pierce",
+  "overview": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
+  "popularity": 6.7731,
+  "poster_path": "/3bqF5bJPjeITNeC8ydbUOQZfuqP.jpg",
+  "release_date": "1945-10-20",
+  "title": "Mildred Pierce",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 423
+}

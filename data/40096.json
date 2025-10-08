@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/alQqTpmEkxSLgajfEYTsTH6nAKB.jpg",
+  "genre_ids": [
+    35,
+    18,
+    14,
+    10749
+  ],
+  "id": 40096,
+  "original_language": "pt",
+  "original_title": "O Auto da Compadecida",
+  "overview": "The lively João Grilo and the sly Chicó are poor guys living in the hinterland who cheat a bunch of people in a small town in Northeastern Brazil. When they die, they have to be judged by Christ, the Devil and the Virgin Mary before they are admitted to paradise.",
+  "popularity": 1.3299,
+  "poster_path": "/espZvlT0JFnnFKKWpds1rWJXDan.jpg",
+  "release_date": "2000-09-15",
+  "title": "A Dog's Will",
+  "video": false,
+  "vote_average": 8.426,
+  "vote_count": 1183
+}

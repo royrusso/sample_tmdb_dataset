@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 666277,
+  "original_language": "en",
+  "original_title": "Past Lives",
+  "overview": "After decades apart, childhood friends Nora and Hae Sung are reunited in New York for one fateful weekend as they confront notions of destiny, love, and the choices that make a life.",
+  "popularity": 9.9452,
+  "poster_path": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+  "release_date": "2023-06-02",
+  "title": "Past Lives",
+  "video": false,
+  "vote_average": 7.731,
+  "vote_count": 2044
+}

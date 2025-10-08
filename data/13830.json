@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/8ErH7koBjggT4etFO23IQ3ZZ1BI.jpg",
+  "genre_ids": [
+    28,
+    12,
+    80,
+    18
+  ],
+  "id": 13830,
+  "original_language": "en",
+  "original_title": "Shottas",
+  "overview": "A raw urban drama about two friends raised on the dangerous streets of Kingston, Jamaica. Biggs and Wayne take on the \"Shotta\" way of life to survive. As young boys, they begin a life of crime, eventually moving to the US where they begin a ruthless climb from the bottom. They remain bound to each other by their shottas loyalty as they aggressively take control of the Jamaican underworld.",
+  "popularity": 2.9721,
+  "poster_path": "/chh2xSTVtMCFyFePm1zRbBmtqaX.jpg",
+  "release_date": "2002-02-27",
+  "title": "Shottas",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 349
+}

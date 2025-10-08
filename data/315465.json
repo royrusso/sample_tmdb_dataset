@@ -1,0 +1,23 @@
+{
+  "adult": false,
+  "backdrop_path": "/8yniaG7C4iCm0VVTSShAPUZYM3Y.jpg",
+  "genre_ids": [
+    28,
+    12,
+    16,
+    18,
+    10751,
+    14
+  ],
+  "id": 315465,
+  "original_language": "ja",
+  "original_title": "バケモノの子",
+  "overview": "Kyuta, a boy living in Shibuya, and Kumatetsu, a lonesome beast from Jutengai, an imaginary world. One day, Kyuta forays into the imaginary world and, as he's looking for his way back, meets Kumatetsu who becomes his spirit guide. That encounter leads them to many adventures.",
+  "popularity": 2.9707,
+  "poster_path": "/kzKJxfIdZ70nsPfKyq7hlYlJwSx.jpg",
+  "release_date": "2015-07-11",
+  "title": "The Boy and the Beast",
+  "video": false,
+  "vote_average": 7.939,
+  "vote_count": 1540
+}

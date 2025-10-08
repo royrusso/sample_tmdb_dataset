@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/wfabrzHzfYTdCj3iSCY7OEQbND0.jpg",
+  "genre_ids": [
+    18,
+    80,
+    36
+  ],
+  "id": 522212,
+  "original_language": "en",
+  "original_title": "Just Mercy",
+  "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+  "popularity": 2.4939,
+  "poster_path": "/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+  "release_date": "2019-12-25",
+  "title": "Just Mercy",
+  "video": false,
+  "vote_average": 7.858,
+  "vote_count": 2378
+}

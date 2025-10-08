@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/q6OGlZ1KMEb14AC8KbPCxyNOal6.jpg",
+  "genre_ids": [
+    18,
+    35
+  ],
+  "id": 77338,
+  "original_language": "fr",
+  "original_title": "Intouchables",
+  "overview": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
+  "popularity": 11.2403,
+  "poster_path": "/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg",
+  "release_date": "2011-11-02",
+  "title": "The Intouchables",
+  "video": false,
+  "vote_average": 8.271,
+  "vote_count": 17886
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/iItypZVpdnxTFgA0iv345AzMUqk.jpg",
+  "genre_ids": [
+    35,
+    10749
+  ],
+  "id": 981,
+  "original_language": "en",
+  "original_title": "The Philadelphia Story",
+  "overview": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+  "popularity": 7.2496,
+  "poster_path": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+  "release_date": "1940-12-05",
+  "title": "The Philadelphia Story",
+  "video": false,
+  "vote_average": 7.615,
+  "vote_count": 920
+}

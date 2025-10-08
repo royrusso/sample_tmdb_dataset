@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/sO70LyX3CHDNimbUwdGqL6pjrD3.jpg",
+  "genre_ids": [
+    18,
+    10402
+  ],
+  "id": 367412,
+  "original_language": "en",
+  "original_title": "Whiplash",
+  "overview": "A ferocious, bullying music teacher teaches a dedicated student.",
+  "popularity": 1.1041,
+  "poster_path": "/dd0MyXqrgIi6s3CqFBMURXjUCEQ.jpg",
+  "release_date": "2013-01-18",
+  "title": "Whiplash",
+  "video": false,
+  "vote_average": 7.799,
+  "vote_count": 384
+}

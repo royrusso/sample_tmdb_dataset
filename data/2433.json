@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/8m7qOKlsdnxt4335vpFzpffuIVu.jpg",
+  "genre_ids": [
+    10749,
+    35,
+    18
+  ],
+  "id": 2433,
+  "original_language": "fr",
+  "original_title": "Les Demoiselles de Rochefort",
+  "overview": "Delphine and Solange are two sisters living in Rochefort. Delphine is a dancing teacher and Solange composes and teaches the piano. Maxence is a poet and a painter. He is doing his military service. Simon owns a music shop, he left Paris one month ago to come back where he fell in love 10 years ago. They are looking for love, looking for each other, without being aware that their ideal partner is very close...",
+  "popularity": 1.2962,
+  "poster_path": "/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
+  "release_date": "1967-03-08",
+  "title": "The Young Girls of Rochefort",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 631
+}

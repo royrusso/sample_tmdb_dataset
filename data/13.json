@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+  "genre_ids": [
+    35,
+    18,
+    10749
+  ],
+  "id": 13,
+  "original_language": "en",
+  "original_title": "Forrest Gump",
+  "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+  "popularity": 18.6102,
+  "poster_path": "/9wlYJy01XgvIhdf651FgyJkau07.jpg",
+  "release_date": "1994-06-23",
+  "title": "Forrest Gump",
+  "video": false,
+  "vote_average": 8.465,
+  "vote_count": 28697
+}

@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
+  "genre_ids": [
+    16,
+    14,
+    28,
+    12
+  ],
+  "id": 795607,
+  "original_language": "zh",
+  "original_title": "白蛇2：青蛇劫起",
+  "overview": "While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can't recall his past life.",
+  "popularity": 3.6941,
+  "poster_path": "/1zs5zsQDP5KuWwxIg9EUULLFEV.jpg",
+  "release_date": "2021-07-23",
+  "title": "Green Snake",
+  "video": false,
+  "vote_average": 8.092,
+  "vote_count": 341
+}

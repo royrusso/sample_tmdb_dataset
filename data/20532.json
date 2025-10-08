@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/7m8b1YwEeK8NeMkiSbPY8CMJx6a.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 20532,
+  "original_language": "ja",
+  "original_title": "山椒大夫",
+  "overview": "In medieval Japan, a woman and her children journey to find the family's patriarch, who was exiled years earlier.",
+  "popularity": 3.2926,
+  "poster_path": "/cOBsWxFtEoqXIPx4JZP5E7g1WEo.jpg",
+  "release_date": "1954-03-31",
+  "title": "Sansho the Bailiff",
+  "video": false,
+  "vote_average": 8.104,
+  "vote_count": 400
+}

@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg",
+  "genre_ids": [
+    14,
+    12,
+    16,
+    28
+  ],
+  "id": 14282,
+  "original_language": "ja",
+  "original_title": "獣兵衛忍風帖",
+  "overview": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold—or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways—and possibly his life.",
+  "popularity": 5.4329,
+  "poster_path": "/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+  "release_date": "1993-06-05",
+  "title": "Ninja Scroll",
+  "video": false,
+  "vote_average": 7.758,
+  "vote_count": 691
+}

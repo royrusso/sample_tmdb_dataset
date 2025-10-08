@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/jBP00fK8DfAhmmc2d6y1nUkhdjY.jpg",
+  "genre_ids": [
+    35,
+    14
+  ],
+  "id": 27670,
+  "original_language": "it",
+  "original_title": "Non ci resta che piangere",
+  "overview": "Two 20th-century friends accidentally stumble into the year 1492, where they meet a charming teen and try to alter history.",
+  "popularity": 1.805,
+  "poster_path": "/cnhfXiqrJppDvo6nc5QgOAtRp2z.jpg",
+  "release_date": "1984-12-20",
+  "title": "Nothing Left to Do But Cry",
+  "video": false,
+  "vote_average": 7.736,
+  "vote_count": 1157
+}

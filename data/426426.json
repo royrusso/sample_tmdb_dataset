@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/uYkQYnrAz8Gzw6WCmcFEAzhlJIA.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 426426,
+  "original_language": "es",
+  "original_title": "Roma",
+  "overview": "In 1970s Mexico City, two domestic workers help a mother of four while her husband is away for an extended period of time.",
+  "popularity": 1.8766,
+  "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+  "release_date": "2018-11-21",
+  "title": "Roma",
+  "video": false,
+  "vote_average": 7.629,
+  "vote_count": 4003
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/3obBVWeKVUh2LBtziL7SNR6yxOf.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 51822,
+  "original_language": "es",
+  "original_title": "Amar te duele",
+  "overview": "Family and friends try to sabotage the budding romance between a young upper class girl and a humble student.",
+  "popularity": 4.2209,
+  "poster_path": "/eyhd9wLlyDTGOKl4jmzWy5sa90o.jpg",
+  "release_date": "2002-11-08",
+  "title": "Love Hurts",
+  "video": false,
+  "vote_average": 8.012,
+  "vote_count": 339
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/pSL75Sg1APD4OHpQs4VyFb8pIFv.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    14
+  ],
+  "id": 22504,
+  "original_language": "fr",
+  "original_title": "Le Roi et l'Oiseau",
+  "overview": "A young shepherdess and a chimneysweep plan to get married and escape the clutches of a tyrannical king in love with her, assisted by the guile of a cheeky mockingbird, the king's archenemy.",
+  "popularity": 1.5433,
+  "poster_path": "/yDbfVUrb9b0Dkm1TptWtzkujXBk.jpg",
+  "release_date": "1980-03-19",
+  "title": "The King and the Mockingbird",
+  "video": false,
+  "vote_average": 7.759,
+  "vote_count": 396
+}

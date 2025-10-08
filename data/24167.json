@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/3TcUsPiVU0fSLX0Mk7lc3DDuzkY.jpg",
+  "genre_ids": [
+    18,
+    10752
+  ],
+  "id": 24167,
+  "original_language": "it",
+  "original_title": "La ciociara",
+  "overview": "A young widow flees from Rome during WWII and takes her lonely twelve-year-old-daughter to her rural hometown but the horrors of war soon catch up with them.",
+  "popularity": 2.8829,
+  "poster_path": "/biWDAUQD58enMEcyO2BqIVSycF4.jpg",
+  "release_date": "1960-12-22",
+  "title": "Two Women",
+  "video": false,
+  "vote_average": 7.833,
+  "vote_count": 551
+}

@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/zP6pqpSRRiOCjjC5oWKZKkHqoSB.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 595,
+  "original_language": "en",
+  "original_title": "To Kill a Mockingbird",
+  "overview": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+  "popularity": 3.8874,
+  "poster_path": "/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
+  "release_date": "1962-12-20",
+  "title": "To Kill a Mockingbird",
+  "video": false,
+  "vote_average": 7.993,
+  "vote_count": 2736
+}

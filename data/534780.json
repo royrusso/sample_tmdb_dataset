@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/ArvKQJv3nEpnBoVyjWDUT7TtJOL.jpg",
+  "genre_ids": [
+    80,
+    9648,
+    53,
+    35
+  ],
+  "id": 534780,
+  "original_language": "hi",
+  "original_title": "अंधाधुन",
+  "overview": "A series of mysterious events changes the life of a blind pianist who now must report a crime that was actually never witnessed by him.",
+  "popularity": 7.488,
+  "poster_path": "/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg",
+  "release_date": "2018-10-05",
+  "title": "Andhadhun",
+  "video": false,
+  "vote_average": 7.631,
+  "vote_count": 570
+}

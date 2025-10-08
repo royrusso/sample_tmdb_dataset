@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/j1bOCozOQOxJpk0iAQbJDS2w8OJ.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 1081676,
+  "original_language": "pl",
+  "original_title": "Znachor",
+  "overview": "A once-respected surgeon who's lost his family and his memory gets a chance at redemption when he reconnects with someone from his forgotten past.",
+  "popularity": 5.3347,
+  "poster_path": "/8mHfCmc2dt6wk2DNc0NXlYXOzVj.jpg",
+  "release_date": "2023-09-26",
+  "title": "Forgotten Love",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 322
+}

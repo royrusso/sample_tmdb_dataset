@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/6Z1fVDm7b05I1650DJRqAq8dIaI.jpg",
+  "genre_ids": [
+    80,
+    9648,
+    53,
+    18
+  ],
+  "id": 2118,
+  "original_language": "en",
+  "original_title": "L.A. Confidential",
+  "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+  "popularity": 6.5632,
+  "poster_path": "/2PH1pqXMcYBDjodkjiMwMiPi2bH.jpg",
+  "release_date": "1997-09-19",
+  "title": "L.A. Confidential",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 5247
+}

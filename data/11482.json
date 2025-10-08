@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/w2jKdLXZXz93X9ynjHs9MoR3UKF.jpg",
+  "genre_ids": [
+    53,
+    27,
+    9648,
+    18
+  ],
+  "id": 11482,
+  "original_language": "en",
+  "original_title": "Le locataire",
+  "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
+  "popularity": 1.9416,
+  "poster_path": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+  "release_date": "1976-05-26",
+  "title": "The Tenant",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 1176
+}

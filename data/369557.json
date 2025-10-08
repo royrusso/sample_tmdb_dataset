@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/yB35bWnl0hBsc7bgMrO98d4s3Kj.jpg",
+  "genre_ids": [
+    10749,
+    18,
+    10402,
+    35
+  ],
+  "id": 369557,
+  "original_language": "en",
+  "original_title": "Sing Street",
+  "overview": "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.",
+  "popularity": 3.3956,
+  "poster_path": "/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg",
+  "release_date": "2016-03-11",
+  "title": "Sing Street",
+  "video": false,
+  "vote_average": 7.862,
+  "vote_count": 2370
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
+  "genre_ids": [
+    18,
+    36
+  ],
+  "id": 5801,
+  "original_language": "bn",
+  "original_title": "পথের পাঁচালী",
+  "overview": "Impoverished priest Harihar Ray leaves his rural Bengal village in search of work. His wife, Sarbojaya, looks after their rebellious daughter, Durga, and young son, Apu. The children enjoy the small pleasures of their difficult life.",
+  "popularity": 2.9322,
+  "poster_path": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+  "release_date": "1955-08-26",
+  "title": "Pather Panchali",
+  "video": false,
+  "vote_average": 7.844,
+  "vote_count": 459
+}

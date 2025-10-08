@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg",
+  "genre_ids": [
+    28,
+    35,
+    80
+  ],
+  "id": 1139817,
+  "original_language": "ko",
+  "original_title": "무도실무관",
+  "overview": "A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer.",
+  "popularity": 6.6857,
+  "poster_path": "/rEaJSXAlNfdhRpDHiNcJsoUa9qE.jpg",
+  "release_date": "2024-09-12",
+  "title": "Officer Black Belt",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 315
+}

@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/68NGFE8zD2gaQVH6MqJeKzojFJM.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 1626,
+  "original_language": "fr",
+  "original_title": "Vivre sa vie: film en douze tableaux",
+  "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.",
+  "popularity": 1.8906,
+  "poster_path": "/A0BjScjASfMFgyGI5sU0CwfKh3l.jpg",
+  "release_date": "1962-09-20",
+  "title": "Vivre Sa Vie",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 671
+}

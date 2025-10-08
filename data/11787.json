@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/mKnKgHZaGcrhBnRNZ1gYWhDLM3L.jpg",
+  "genre_ids": [
+    35,
+    14
+  ],
+  "id": 11787,
+  "original_language": "en",
+  "original_title": "Harvey",
+  "overview": "The story of Elwood P. Dowd who makes friends with a spirit taking the form of a human-sized rabbit named Harvey that only he sees (and a few privileged others on occasion also.) After his sister tries to commit him to a mental institution, a comedy of errors ensues. Elwood and Harvey become the catalysts for a family mending its wounds and for romance blossoming in unexpected places.",
+  "popularity": 2.8851,
+  "poster_path": "/dgd82hYmpiXDM1G867HqNaWe8wj.jpg",
+  "release_date": "1950-12-04",
+  "title": "Harvey",
+  "video": false,
+  "vote_average": 7.678,
+  "vote_count": 650
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+  "genre_ids": [
+    18,
+    53
+  ],
+  "id": 702,
+  "original_language": "en",
+  "original_title": "A Streetcar Named Desire",
+  "overview": "A disturbed, aging Southern belle moves in with her sister for solace — but being face-to-face with her brutish brother-in-law accelerates her downward spiral.",
+  "popularity": 4.1508,
+  "poster_path": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+  "release_date": "1951-09-19",
+  "title": "A Streetcar Named Desire",
+  "video": false,
+  "vote_average": 7.621,
+  "vote_count": 1416
+}

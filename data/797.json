@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 797,
+  "original_language": "sv",
+  "original_title": "Persona",
+  "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+  "popularity": 2.451,
+  "poster_path": "/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+  "release_date": "1966-10-18",
+  "title": "Persona",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 2310
+}

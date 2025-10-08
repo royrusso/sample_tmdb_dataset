@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/9eUbBLai6gCViYh10G5mkAcxsrw.jpg",
+  "genre_ids": [
+    16,
+    35,
+    10751,
+    9648
+  ],
+  "id": 45752,
+  "original_language": "en",
+  "original_title": "Scooby-Doo! Camp Scare",
+  "overview": "Scooby and the gang experience outdoor fun as they go back to Fred's old summer camp. As summer goes on, it becomes increasingly clear that the spooky camp stories told by the fireplace, are more real than they've though and soon, it's up to the gang to try and solve the mystery of camp scare.",
+  "popularity": 2.2668,
+  "poster_path": "/zurVOCpOLwLTBknYlgcXHWE0xvu.jpg",
+  "release_date": "2010-09-14",
+  "title": "Scooby-Doo! Camp Scare",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 314
+}

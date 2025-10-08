@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+  "genre_ids": [
+    80,
+    35
+  ],
+  "id": 107,
+  "original_language": "en",
+  "original_title": "Snatch",
+  "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+  "popularity": 7.5705,
+  "poster_path": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+  "release_date": "2000-09-01",
+  "title": "Snatch",
+  "video": false,
+  "vote_average": 7.817,
+  "vote_count": 9498
+}

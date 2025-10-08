@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+  "genre_ids": [
+    18,
+    53
+  ],
+  "id": 1700,
+  "original_language": "en",
+  "original_title": "Misery",
+  "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+  "popularity": 5.3921,
+  "poster_path": "/23Y65uWaVMpqfbZTN3CT0aei4D5.jpg",
+  "release_date": "1990-11-30",
+  "title": "Misery",
+  "video": false,
+  "vote_average": 7.745,
+  "vote_count": 4922
+}

@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/mFfyE5DPFDqoes4HIcElHc2a15y.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 334,
+  "original_language": "en",
+  "original_title": "Magnolia",
+  "overview": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+  "popularity": 7.1208,
+  "poster_path": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+  "release_date": "1999-12-17",
+  "title": "Magnolia",
+  "video": false,
+  "vote_average": 7.729,
+  "vote_count": 3768
+}

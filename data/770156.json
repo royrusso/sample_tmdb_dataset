@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/7KR1nKGaYqPuFBnqP7XBIX0DZlR.jpg",
+  "genre_ids": [
+    18,
+    10751
+  ],
+  "id": 770156,
+  "original_language": "en",
+  "original_title": "Lucy Shimmers and the Prince of Peace",
+  "overview": "Second chances start when a hardened criminal crosses paths with a precocious little girl who is helped by an angel to change hearts during the holiday season.",
+  "popularity": 5.0508,
+  "poster_path": "/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg",
+  "release_date": "2020-10-19",
+  "title": "Lucy Shimmers and the Prince of Peace",
+  "video": false,
+  "vote_average": 8.379,
+  "vote_count": 322
+}

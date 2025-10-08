@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/nKwGUiqPdNf47XFjlbR5IFwAaOL.jpg",
+  "genre_ids": [
+    12,
+    36,
+    10752
+  ],
+  "id": 947,
+  "original_language": "en",
+  "original_title": "Lawrence of Arabia",
+  "overview": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+  "popularity": 5.615,
+  "poster_path": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+  "release_date": "1962-12-11",
+  "title": "Lawrence of Arabia",
+  "video": false,
+  "vote_average": 7.996,
+  "vote_count": 3227
+}

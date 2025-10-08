@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/mNLonkdD4MtaZnHTifp8be8nJrm.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 374473,
+  "original_language": "en",
+  "original_title": "I, Daniel Blake",
+  "overview": "A middle aged carpenter, who requires state welfare after injuring himself, is joined by a single mother in a similar scenario.",
+  "popularity": 1.9579,
+  "poster_path": "/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg",
+  "release_date": "2016-10-21",
+  "title": "I, Daniel Blake",
+  "video": false,
+  "vote_average": 7.717,
+  "vote_count": 1474
+}

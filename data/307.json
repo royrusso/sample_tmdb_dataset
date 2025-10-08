@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+  "genre_ids": [
+    18,
+    10752
+  ],
+  "id": 307,
+  "original_language": "it",
+  "original_title": "Roma città aperta",
+  "overview": "In WWII-era Rome, underground resistance leader Manfredi attempts to evade the Gestapo by enlisting the help of Pina, the fiancée of a fellow member of the resistance, and Don Pietro, the priest due to oversee her marriage. But it’s not long before the Nazis and the local police find him.",
+  "popularity": 4.5073,
+  "poster_path": "/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+  "release_date": "1945-10-08",
+  "title": "Rome, Open City",
+  "video": false,
+  "vote_average": 8.018,
+  "vote_count": 928
+}

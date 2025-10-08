@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/hUeSuUxNyQivx2wrRvGoyZiZDUu.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    14,
+    35
+  ],
+  "id": 1139087,
+  "original_language": "en",
+  "original_title": "Once Upon a Studio",
+  "overview": "Created for Disney's 100th anniversary, the short features Mickey Mouse corralling a gallery of legendary Disney characters for a group photo.",
+  "popularity": 5.2675,
+  "poster_path": "/aiy3G1cYWV3LgKZHY6a3jL8bjYL.jpg",
+  "release_date": "2023-09-24",
+  "title": "Once Upon a Studio",
+  "video": false,
+  "vote_average": 8.278,
+  "vote_count": 403
+}

@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/u6aGN71Hx39iX8Uv4ILRRKHmAXc.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 447362,
+  "original_language": "en",
+  "original_title": "Life in a Year",
+  "overview": "A 17 year old finds out that his girlfriend is dying, so he sets out to give her an entire life, in the last year she has left.",
+  "popularity": 8.186,
+  "poster_path": "/bP7u19opmHXYeTCUwGjlLldmUMc.jpg",
+  "release_date": "2020-11-27",
+  "title": "Life in a Year",
+  "video": false,
+  "vote_average": 8.243,
+  "vote_count": 1939
+}

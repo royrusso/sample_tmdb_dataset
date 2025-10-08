@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/eWYrrdCKd4bjOKB9DB0HtRUhI1o.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 5528,
+  "original_language": "fr",
+  "original_title": "Les Choristes",
+  "overview": "In 1940s France, a new teacher at a school for disruptive boys gives hope and inspiration.",
+  "popularity": 7.0487,
+  "poster_path": "/hUl7gSvkGygyk9wt3zy5NqpC5bb.jpg",
+  "release_date": "2004-03-17",
+  "title": "The Chorus",
+  "video": false,
+  "vote_average": 7.733,
+  "vote_count": 2513
+}

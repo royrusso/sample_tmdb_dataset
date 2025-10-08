@@ -1,0 +1,25 @@
+{
+  "adult": false,
+  "backdrop_path": "/An1FS6Baec7uogTcQyEYqruYAtM.jpg",
+  "genre_ids": [
+    16,
+    35,
+    878,
+    10770,
+    12,
+    28,
+    10751,
+    14
+  ],
+  "id": 354857,
+  "original_language": "en",
+  "original_title": "Regular Show: The Movie",
+  "overview": "After a high school lab experiment goes horribly wrong, Mordecai and Rigby must go back in time to battle an evil volleyball coach in order to save the universe — and their friendship.",
+  "popularity": 2.2759,
+  "poster_path": "/p44RoW4naoE1nlSGOqqT0J2pc09.jpg",
+  "release_date": "2015-09-01",
+  "title": "Regular Show: The Movie",
+  "video": false,
+  "vote_average": 7.898,
+  "vote_count": 406
+}

@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+  "genre_ids": [
+    14,
+    18,
+    10752
+  ],
+  "id": 1417,
+  "original_language": "es",
+  "original_title": "El laberinto del fauno",
+  "overview": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+  "popularity": 8.6124,
+  "poster_path": "/s8C4whhKtDaJvMDcyiMvx3BIF5F.jpg",
+  "release_date": "2006-10-11",
+  "title": "Pan's Labyrinth",
+  "video": false,
+  "vote_average": 7.756,
+  "vote_count": 11019
+}

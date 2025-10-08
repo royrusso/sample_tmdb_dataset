@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/2LMgkmtnmhjUHvFXNDruHzrUFKK.jpg",
+  "genre_ids": [
+    80,
+    18,
+    10749
+  ],
+  "id": 15804,
+  "original_language": "zh",
+  "original_title": "牯嶺街少年殺人事件",
+  "overview": "A boy experiences first love, friendships and injustices growing up in 1960s Taiwan.",
+  "popularity": 5.0341,
+  "poster_path": "/rDZ2mNQkZrnSzHPLQ7SzhzgCSoj.jpg",
+  "release_date": "1991-07-27",
+  "title": "A Brighter Summer Day",
+  "video": false,
+  "vote_average": 8.321,
+  "vote_count": 358
+}

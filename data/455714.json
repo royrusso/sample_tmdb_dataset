@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/gOgBpD5NivnWIqZYTBFSmAtziuJ.jpg",
+  "genre_ids": [
+    18,
+    80,
+    53,
+    35
+  ],
+  "id": 455714,
+  "original_language": "th",
+  "original_title": "ฉลาดเกมส์โกง",
+  "overview": "Lynn, a brilliant student, after helping her friends to get the grades they need, develops the idea of starting a much bigger exam-cheating business.",
+  "popularity": 4.3991,
+  "poster_path": "/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg",
+  "release_date": "2017-05-03",
+  "title": "Bad Genius",
+  "video": false,
+  "vote_average": 7.872,
+  "vote_count": 811
+}

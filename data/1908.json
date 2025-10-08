@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 1908,
+  "original_language": "en",
+  "original_title": "Inherit the Wind",
+  "overview": "Schoolteacher Bertram Cates is arrested for teaching his students Darwin's theory of evolution. The case receives national attention and one of the newspaper reporters, E.K. Hornbeck, arranges to bring in renowned defense attorney and atheist Henry Drummond to defend Cates. The prosecutor, Matthew Brady is a former presidential candidate, famous evangelist, and old adversary of Drummond.",
+  "popularity": 2.0786,
+  "poster_path": "/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+  "release_date": "1960-07-07",
+  "title": "Inherit the Wind",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 436
+}

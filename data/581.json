@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+  "genre_ids": [
+    12,
+    18,
+    37
+  ],
+  "id": 581,
+  "original_language": "en",
+  "original_title": "Dances with Wolves",
+  "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide—and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+  "popularity": 7.3357,
+  "poster_path": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+  "release_date": "1990-03-30",
+  "title": "Dances with Wolves",
+  "video": false,
+  "vote_average": 7.843,
+  "vote_count": 4484
+}

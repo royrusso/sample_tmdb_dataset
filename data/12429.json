@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg",
+  "genre_ids": [
+    16,
+    14,
+    10751
+  ],
+  "id": 12429,
+  "original_language": "ja",
+  "original_title": "崖の上のポニョ",
+  "overview": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+  "popularity": 8.8665,
+  "poster_path": "/yp8vEZflGynlEylxEesbYasc06i.jpg",
+  "release_date": "2008-07-19",
+  "title": "Ponyo",
+  "video": false,
+  "vote_average": 7.749,
+  "vote_count": 4559
+}

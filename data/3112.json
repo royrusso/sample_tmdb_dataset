@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/ngh5pnvXPceZYdeKZqO4OYS9VHF.jpg",
+  "genre_ids": [
+    80,
+    18,
+    53
+  ],
+  "id": 3112,
+  "original_language": "en",
+  "original_title": "The Night of the Hunter",
+  "overview": "In Depression-era West Virginia, a serial-killing preacher hunts two young children who know the whereabouts of a stash of money.",
+  "popularity": 5.4447,
+  "poster_path": "/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+  "release_date": "1955-07-27",
+  "title": "The Night of the Hunter",
+  "video": false,
+  "vote_average": 7.877,
+  "vote_count": 1710
+}

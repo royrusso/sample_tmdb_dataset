@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/rN1OKiEp8gNQ9RB6GeZeqOqVsjk.jpg",
+  "genre_ids": [
+    18,
+    10749
+  ],
+  "id": 26371,
+  "original_language": "en",
+  "original_title": "Maurice",
+  "overview": "After his lover rejects him, Maurice attempts to come to terms with his sexuality within the restrictiveness of Edwardian society.",
+  "popularity": 2.273,
+  "poster_path": "/8HhCyxxzoUqEBmVGK25Jq69LhVo.jpg",
+  "release_date": "1987-09-18",
+  "title": "Maurice",
+  "video": false,
+  "vote_average": 7.612,
+  "vote_count": 575
+}

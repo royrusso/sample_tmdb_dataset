@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/g11nKgir3nIhlG2gIDWIvJeR4fz.jpg",
+  "genre_ids": [
+    18,
+    53
+  ],
+  "id": 582,
+  "original_language": "de",
+  "original_title": "Das Leben der Anderen",
+  "overview": "In 1984 East Berlin, dedicated Stasi officer Gerd Wiesler begins spying on a famous playwright and his actress-lover Christa-Maria. Wiesler becomes unexpectedly sympathetic to the couple, and faces conflicting loyalties when his superior takes a liking to Christa-Maria.",
+  "popularity": 4.862,
+  "poster_path": "/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+  "release_date": "2006-03-23",
+  "title": "The Lives of Others",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 3896
+}

@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/yeXCUUSaAZFH4Zyd4Spgq4nl1xr.jpg",
+  "genre_ids": [
+    16,
+    10749,
+    10402,
+    10770
+  ],
+  "id": 1027014,
+  "original_language": "en",
+  "original_title": "Entergalactic",
+  "overview": "Ambitious artist Jabari attempts to balance success and love when he moves into his dream Manhattan apartment and falls for his next-door neighbor.",
+  "popularity": 5.2714,
+  "poster_path": "/oMU3JpuKuasjAWIbUQgCaT6pco1.jpg",
+  "release_date": "2022-09-28",
+  "title": "Entergalactic",
+  "video": false,
+  "vote_average": 7.658,
+  "vote_count": 445
+}

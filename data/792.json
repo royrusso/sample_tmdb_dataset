@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/wjt1dwtabVm9vujAteDTnXnpHfZ.jpg",
+  "genre_ids": [
+    18,
+    10752,
+    28
+  ],
+  "id": 792,
+  "original_language": "en",
+  "original_title": "Platoon",
+  "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+  "popularity": 7.1806,
+  "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+  "release_date": "1986-12-19",
+  "title": "Platoon",
+  "video": false,
+  "vote_average": 7.745,
+  "vote_count": 4835
+}

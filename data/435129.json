@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
+  "genre_ids": [
+    16,
+    10752,
+    18,
+    10751
+  ],
+  "id": 435129,
+  "original_language": "en",
+  "original_title": "The Breadwinner",
+  "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
+  "popularity": 2.7492,
+  "poster_path": "/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+  "release_date": "2017-11-17",
+  "title": "The Breadwinner",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 878
+}

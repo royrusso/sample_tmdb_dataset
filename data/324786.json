@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+  "genre_ids": [
+    18,
+    36,
+    10752
+  ],
+  "id": 324786,
+  "original_language": "en",
+  "original_title": "Hacksaw Ridge",
+  "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+  "popularity": 15.1263,
+  "poster_path": "/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+  "release_date": "2016-10-07",
+  "title": "Hacksaw Ridge",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 14351
+}

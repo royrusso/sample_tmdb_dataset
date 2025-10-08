@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
+  "genre_ids": [
+    16,
+    878,
+    10751,
+    28
+  ],
+  "id": 829402,
+  "original_language": "en",
+  "original_title": "Ultraman: Rising",
+  "overview": "A star athlete reluctantly returns home to take over his father's duties as Ultraman, shielding Tokyo from giant monsters as he becomes a legendary hero.",
+  "popularity": 6.5273,
+  "poster_path": "/j886YEkIUsiImY53px5VHKD4lRa.jpg",
+  "release_date": "2024-06-14",
+  "title": "Ultraman: Rising",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 348
+}

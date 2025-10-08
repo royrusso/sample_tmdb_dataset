@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/tAxFr4RkDcRzTqRgZ0pDNvrSTrN.jpg",
+  "genre_ids": [
+    10752,
+    18,
+    53,
+    9648,
+    28
+  ],
+  "id": 2440,
+  "original_language": "ko",
+  "original_title": "공동경비구역 JSA",
+  "overview": "Two North Korean soldiers are killed in the border area between North and South Korea, prompting an investigation by a neutral body. The sergeant is the shooter, but the lead investigator, a Swiss-Korean woman, receives differing accounts from the two sides.",
+  "popularity": 4.4489,
+  "poster_path": "/etoPOj0bXzfw0LBNslCxqO7MHuv.jpg",
+  "release_date": "2000-09-09",
+  "title": "Joint Security Area",
+  "video": false,
+  "vote_average": 7.811,
+  "vote_count": 761
+}

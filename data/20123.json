@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/5swI23sPOvSjd5LJ9TQDsMYkCPc.jpg",
+  "genre_ids": [
+    18,
+    35,
+    80,
+    14
+  ],
+  "id": 20123,
+  "original_language": "sh",
+  "original_title": "Dom za vešanje",
+  "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves.",
+  "popularity": 3.5937,
+  "poster_path": "/av6K9MX0jNNFAH6NZVrVV2DMAOA.jpg",
+  "release_date": "1988-12-21",
+  "title": "Time of the Gypsies",
+  "video": false,
+  "vote_average": 7.641,
+  "vote_count": 407
+}

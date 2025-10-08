@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/rA9QYI7yTV2F2AvaqBcq1vL3MOr.jpg",
+  "genre_ids": [
+    16,
+    35
+  ],
+  "id": 489412,
+  "original_language": "en",
+  "original_title": "It's Such a Beautiful Day",
+  "overview": "Bill struggles to put together his shattered psyche.",
+  "popularity": 2.5016,
+  "poster_path": "/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg",
+  "release_date": "2012-08-24",
+  "title": "It's Such a Beautiful Day",
+  "video": false,
+  "vote_average": 7.928,
+  "vote_count": 354
+}

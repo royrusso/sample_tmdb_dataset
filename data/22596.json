@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/bP9iuGdBVD48Sw6r06ZcepwMZ1c.jpg",
+  "genre_ids": [
+    35,
+    10749
+  ],
+  "id": 22596,
+  "original_language": "en",
+  "original_title": "Safety Last!",
+  "overview": "When a store clerk organizes a contest to climb the outside of a tall building, circumstances force him to make the perilous climb himself.",
+  "popularity": 1.9342,
+  "poster_path": "/fEt5HWJ32ek8ibef7zSZnA00Jp0.jpg",
+  "release_date": "1923-04-01",
+  "title": "Safety Last!",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 546
+}

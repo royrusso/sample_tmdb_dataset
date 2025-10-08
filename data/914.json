@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+  "genre_ids": [
+    35,
+    10752
+  ],
+  "id": 914,
+  "original_language": "en",
+  "original_title": "The Great Dictator",
+  "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+  "popularity": 3.2872,
+  "poster_path": "/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+  "release_date": "1940-10-15",
+  "title": "The Great Dictator",
+  "video": false,
+  "vote_average": 8.289,
+  "vote_count": 3536
+}

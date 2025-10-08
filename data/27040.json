@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/otRHDr3aMJboh9N4AMbuKKnlHYL.jpg",
+  "genre_ids": [
+    9648,
+    14
+  ],
+  "id": 27040,
+  "original_language": "en",
+  "original_title": "Meshes of the Afternoon",
+  "overview": "A woman returning home falls asleep and has vivid dreams that may or may not be happening in reality. Through repetitive images and complete mismatching of the objective view of time and space, her dark inner desires play out on-screen.",
+  "popularity": 0.6477,
+  "poster_path": "/pRLqidsUdxYM5pXLJ9mqm2n9U9K.jpg",
+  "release_date": "1943-01-01",
+  "title": "Meshes of the Afternoon",
+  "video": false,
+  "vote_average": 7.616,
+  "vote_count": 411
+}

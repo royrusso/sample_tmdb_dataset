@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/i05QKKn8GqAdmQSeAztxhuqN6dt.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    35
+  ],
+  "id": 40619,
+  "original_language": "en",
+  "original_title": "Day & Night",
+  "overview": "When Day, a sunny fellow, encounters Night, a stranger of distinctly darker moods, sparks fly! Day and Night are frightened and suspicious of each other at first, and quickly get off on the wrong foot. But as they discover each other's unique qualities--and come to realize that each of them offers a different window onto the same world-the friendship helps both to gain a new perspective.",
+  "popularity": 1.7698,
+  "poster_path": "/hn2tOtidoYZ0D56jR4yknpdP1mU.jpg",
+  "release_date": "2010-06-17",
+  "title": "Day & Night",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 916
+}

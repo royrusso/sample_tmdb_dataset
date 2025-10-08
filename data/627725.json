@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ciAiEBD4yxZYoXMxEnZF6Q0u58.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 627725,
+  "original_language": "en",
+  "original_title": "The Banker",
+  "overview": "In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration—and equal access to the American Dream.",
+  "popularity": 4.3279,
+  "poster_path": "/biXzsw22U6vSd0XktmZwAOc4uik.jpg",
+  "release_date": "2020-03-06",
+  "title": "The Banker",
+  "video": false,
+  "vote_average": 7.627,
+  "vote_count": 1031
+}

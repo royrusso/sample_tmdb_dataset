@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/p30hhjHTRFA08f3Bo3GENQCu6ST.jpg",
+  "genre_ids": [
+    18,
+    36
+  ],
+  "id": 740937,
+  "original_language": "fr",
+  "original_title": "Simone, le voyage du siècle",
+  "overview": "Simone Veil's life story through the pivotal events of Twentieth Century. Her childhood, her political battles, her tragedies. An intimate and epic portrait of an extraordinary woman who eminently challenged and transformed her era defending a humanist message still keenly relevant today.",
+  "popularity": 0.6209,
+  "poster_path": "/yyN4d1pz2kd5TNSOKjdTU7aSn2e.jpg",
+  "release_date": "2022-10-12",
+  "title": "Simone: Woman of the Century",
+  "video": false,
+  "vote_average": 7.907,
+  "vote_count": 362
+}

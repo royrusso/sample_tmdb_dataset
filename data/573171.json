@@ -1,0 +1,21 @@
+{
+  "adult": false,
+  "backdrop_path": "/9PxXSAnbVfvFacsGTJu1aXEWVg7.jpg",
+  "genre_ids": [
+    16,
+    12,
+    35,
+    10751
+  ],
+  "id": 573171,
+  "original_language": "es",
+  "original_title": "Huevitos Congelados",
+  "overview": "In the final Huevos adventure, Toto and his family will have to travel to the South Pole to fulfill their promise to return a polar bear and some Spanish penguins to their home. In order to do so, they will have to overcome some obstacles that will teach them how important teamwork is.",
+  "popularity": 4.3446,
+  "poster_path": "/8xCO3IarklLD4tK1rPn0e4gSMoV.jpg",
+  "release_date": "2022-12-14",
+  "title": "Little Eggs: A Frozen Rescue",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 358
+}

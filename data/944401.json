@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
+  "genre_ids": [
+    28,
+    18,
+    80
+  ],
+  "id": 944401,
+  "original_language": "fr",
+  "original_title": "Dogman",
+  "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+  "popularity": 6.2825,
+  "poster_path": "/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+  "release_date": "2023-09-27",
+  "title": "Dogman",
+  "video": false,
+  "vote_average": 7.877,
+  "vote_count": 1244
+}

@@ -1,0 +1,18 @@
+{
+  "adult": false,
+  "backdrop_path": "/fSmCPURM80YLuXNvSmU6zoJ52ZN.jpg",
+  "genre_ids": [
+    18
+  ],
+  "id": 29154,
+  "original_language": "en",
+  "original_title": "Stand and Deliver",
+  "overview": "Jaime Escalante is a mathematics teacher in a school in a hispanic neighbourhood. Convinced that his students have potential, he adopts unconventional teaching methods to try and turn gang members and no-hopers into some of the country's top algebra and calculus students.",
+  "popularity": 3.6049,
+  "poster_path": "/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg",
+  "release_date": "1988-03-11",
+  "title": "Stand and Deliver",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 410
+}

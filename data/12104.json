@@ -1,0 +1,19 @@
+{
+  "adult": false,
+  "backdrop_path": "/nrm4FH3Dl9D62B1Lj7dsQgkwXRa.jpg",
+  "genre_ids": [
+    10402,
+    18
+  ],
+  "id": 12104,
+  "original_language": "en",
+  "original_title": "Pink Floyd: The Wall",
+  "overview": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+  "popularity": 2.5224,
+  "poster_path": "/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+  "release_date": "1982-07-14",
+  "title": "Pink Floyd: The Wall",
+  "video": false,
+  "vote_average": 7.948,
+  "vote_count": 1572
+}

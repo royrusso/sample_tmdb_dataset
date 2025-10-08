@@ -1,0 +1,24 @@
+{
+  "adult": false,
+  "backdrop_path": "/4QpKxH614YFIsmiIBVUbsnG2H8w.jpg",
+  "genre_ids": [
+    16,
+    10751,
+    28,
+    878,
+    12,
+    14,
+    18
+  ],
+  "id": 961323,
+  "original_language": "en",
+  "original_title": "Nimona",
+  "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
+  "popularity": 4.1078,
+  "poster_path": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+  "release_date": "2023-06-23",
+  "title": "Nimona",
+  "video": false,
+  "vote_average": 7.866,
+  "vote_count": 1251
+}

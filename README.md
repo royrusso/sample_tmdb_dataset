@@ -2,7 +2,7 @@
 
 A sample JSON dataset from TMDB. This will generate a small set of JSON files based on TMDB data. One file per movie.
 
-# Dev Setup
+## Dev Setup
 
 You will need a valid TMDB API key to run this project. You can get one by creating an account on [TMDB](https://developer.themoviedb.org/) and requesting an API key.
 
@@ -12,17 +12,17 @@ Add your TMDB API key to a `.env` file in the root of the project:
 TMDB_API_KEY=your_tmdb_api_key_here
 ```
 
-## Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
 -   Python >= 3.13
--   poetry
+-   poetry >= 2.0.0
 
-## Installation
+### Installation
 
 1. Clone the repository and drop to the root directory:
-2. Poetry install and activate the virtual environment:
+2. Poetry install dependencies:
 
     ```bash
     poetry install
@@ -34,9 +34,9 @@ Ensure you have the following installed:
     poetry run python src/app.py
     ```
 
-## Configuration
+### Configuration
 
-### Number of JSON Files
+#### Number of Movies
 
 You can configure the number of JSON files to generate by setting the `NUM_RESULTS` environment variable in your `.env` file.
 

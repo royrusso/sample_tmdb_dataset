@@ -15,7 +15,7 @@ def main():
         logger.info(f"Data directory created or already exists at {data_dir}.")
 
         # recursive fetching of top rated movies
-        num_results = int(os.getenv("NUM_RESULTS", 100))
+        num_results = int(os.getenv("NUM_RESULTS", 1000))
         max_pages = (num_results // 20) + 1  # TMDB returns 20 results per page
         page = 1
         while page < max_pages:
@@ -24,9 +24,7 @@ def main():
             if not top_rated["results"]:
                 break
             for movie in top_rated["results"]:
-                logger.info(
-                    f"Top Rated Movie: {movie['title']} - Rating: {movie['vote_average']}"
-                )
+                logger.info(f"Top Rated Movie: {movie['title']} - Rating: {movie['vote_average']}")
 
                 # write each movie JSON object to a separate file under /data in project root
                 with open(os.path.join(data_dir, f"{movie['id']}.json"), "w") as f:
